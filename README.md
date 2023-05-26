@@ -19,7 +19,7 @@ These platforms, providing alternatives to widely-used services like Slack and D
 - [RelatedChat](https://github.com/relatedcode/Messenger) ★4547 - Open source alternative communication platform. (Swift, MIT License).
 - [Rocket.chat](https://github.com/RocketChat/Rocket.Chat) ★35640 - The communications platform that puts data protection first. (TypeScript, Other license).
 - [Spacebar](https://github.com/spacebarchat/spacebarchat) ★4874 - 📬 Spacebar is a free open source selfhostable discord compatible communication platform. (None, GNU Affero General Public License v3.0).
-- [Zulip](https://github.com/zulip/zulip) ★17825 - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. (Python, Apache License 2.0).
+- [Zulip](https://github.com/zulip/zulip) ★17826 - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. (Python, Apache License 2.0).
 
 ### Video Conferencing (Zoom, Webex, Google Meet, Skype... alternatives)
 
@@ -28,7 +28,7 @@ The modern workplace often spans cities, countries, and even continents, making 
 - [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) ★7992 - Complete open source web conferencing system. (JavaScript, GNU Lesser General Public License v3.0).
 - [Element Call](https://github.com/vector-im/element-call) ★334 - Group calls powered by Matrix. (TypeScript, Apache License 2.0).
 - [Galene](https://github.com/jech/galene) ★753 - The Galène videoconference server. (Go, MIT License).
-- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★19792 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. (TypeScript, Apache License 2.0).
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★19791 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. (TypeScript, Apache License 2.0).
 
 ### Knowledge Bases (Notion alternatives)
 
@@ -47,7 +47,7 @@ These tools are designed to help individuals maintain control over their persona
 - [Joplin](https://github.com/laurent22/joplin) ★36057 - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. (TypeScript, Other license).
 - [Logseq](https://github.com/logseq/logseq) ★22618 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap. (Clojure, GNU Affero General Public License v3.0).
 - [Notesnook](https://github.com/streetwriters/notesnook) ★6077 - A fully open source & end-to-end encrypted note taking alternative to Evernote. (JavaScript, GNU General Public License v3.0).
-- [SiYuan](https://github.com/siyuan-note/siyuan) ★10377 - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang. (TypeScript, GNU Affero General Public License v3.0).
+- [SiYuan](https://github.com/siyuan-note/siyuan) ★10379 - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang. (TypeScript, GNU Affero General Public License v3.0).
 
 ### Kanban board (Trello alternatives)
 
@@ -86,13 +86,45 @@ The way we organize and manage our tasks has a significant impact on productivit
 - [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms) - Free Open Source DMS (document management system).
 
 
+## Web
+
+### Web CMS and Blog Engines
+
+- [Wordpress](https://github.com/WordPress/WordPress) ★17510 - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. (PHP, Other license).
+- [Ghost](https://github.com/TryGhost/Ghost) ★43275 - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. (JavaScript, MIT License).
+
+### Blogging platform/ Personal website builder (Medium alternatives)
+
+- [btw](https://github.com/btw-so/btw) ★163 - Open source Medium alternative. (JavaScript, GNU General Public License v3.0).
+- [WriteFreely](https://github.com/writefreely/writefreely) ★3583 - A clean, Markdown-based publishing platform made for writers. Write together and build a community. (Go, GNU Affero General Public License v3.0).
+
+### Web analytics (Google Analytics alternatives)
+
+- [Matomo](https://github.com/matomo-org/matomo) ★17765 - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!. (PHP, GNU General Public License v3.0).
+- [Plausible](https://github.com/plausible/analytics) ★14915 - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (Elixir, GNU Affero General Public License v3.0).
+- [Shynet](https://github.com/milesmcc/shynet) ★2399 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (Python, Apache License 2.0).
+- [Umami](https://github.com/umami-software/umami) ★15886 - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (JavaScript, MIT License).
+
+### Static website generator
+
+- [11ty](https://github.com/11ty/eleventy) ★14366 - A simpler site generator. Transforms a directory of templates (of varying types) into HTML. (JavaScript, MIT License).
+- [Hugo](https://github.com/gohugoio/hugo) ★67245 - The world’s fastest framework for building websites. (Go, Apache License 2.0).
+- [Jekyll](https://github.com/jekyll/jekyll) ★46707 - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby. (Ruby, MIT License).
+- [Lektor](https://github.com/lektor/lektor) ★3674 - The lektor static file content management system. (Python, BSD 3-Clause "New" or "Revised" License).
+- [Zola](https://github.com/getzola/zola) ★10964 - A fast static site generator in a single binary with everything built-in. https://www.getzola.org. (Rust, MIT License).
+
+More:
+
+- [A List of Static Site Generators for Jamstack Sites ](https://jamstack.org/generators/)
+- [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators) ★2254 - A curated list of static web site generators. (None, Creative Commons Zero v1.0 Universal).
+
 ## Other lists of free / open source software
 
 This it not the first list of free / open source software. Here are some other lists:
 
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★133448 - A list of Free Software network services and web applications which can be hosted on your own servers. (Makefile, Other license).
-- [AFS ONE](https://www.afs.one/aa45803b67/#/?page=afs_directory&editable=true)
-
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★133450 - A list of Free Software network services and web applications which can be hosted on your own servers. (Makefile, Other license).
+- [AFS ONE](https://www.afs.one/aa45803b67/#/?page=afs_directory&editable=true) - Free Software Publisher Directory.
 - [Awesome Free Software](https://github.com/abilian/awesome-free-software) ★0 - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases. (None, Unknown license).
-- [Guide des solutions open source](https://guide-solutions-opensource.com/) (en French)
-
+- [Guide des solutions open source](https://guide-solutions-opensource.com/) (in French)
+- [SILL - Catalogue de référence de logiciels libres recommandés pour l'ensemble de l'administration](https://sill.etalab.gouv.fr/) (in French)
+- [Comptoir du Libre](https://comptoir-du-libre.org/en/softwares) (in French)
