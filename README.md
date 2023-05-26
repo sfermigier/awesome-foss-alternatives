@@ -1,7 +1,7 @@
-# Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use 
+# Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use
 
-In a world that's continually advancing technologically, the importance and usefulness of free and open-source software (FOSS) cannot be overstated. 
-Not only does FOSS contribute to increased learning and innovation, but it also encourages collaboration, fostering a sense of community among developers and users alike. 
+In a world that's continually advancing technologically, the importance and usefulness of free and open-source software (FOSS) cannot be overstated.
+Not only does FOSS contribute to increased learning and innovation, but it also encourages collaboration, fostering a sense of community among developers and users alike.
 This directory, as well as the resources provided at the end, offer a comprehensive overview of the available alternatives for businesses.
 
 This is a work in progress. Please contribute!
