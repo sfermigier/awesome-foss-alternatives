@@ -30,12 +30,12 @@ These platforms, providing alternatives to widely-used services like Slack and D
 
 
 
-- [Element](https://github.com/vector-im/element-web) ★9764 - A glossy Matrix collaboration client for the web. (TypeScript, Apache License 2.0)
-- [Mattermost](https://github.com/mattermost/mattermost-server) ★25472 - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. (TypeScript, Other)
-- [RelatedChat](https://github.com/relatedcode/Messenger) ★4547 - Open source alternative communication platform. (Swift, MIT License)
-- [Rocket.chat](https://github.com/RocketChat/Rocket.Chat) ★35640 - The communications platform that puts data protection first. (TypeScript, Other)
-- [Spacebar](https://github.com/spacebarchat/spacebarchat) ★4874 - 📬 Spacebar is a free open source selfhostable discord compatible communication platform (None, GNU Affero General Public License v3.0)
-- [Zulip](https://github.com/zulip/zulip) ★17825 - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. (Python, Apache License 2.0)
+- [Element](https://github.com/vector-im/element-web) ★9764 - A glossy Matrix collaboration client for the web. (TypeScript, Apache License 2.0).
+- [Mattermost](https://github.com/mattermost/mattermost-server) ★25472 - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. (TypeScript, Other license).
+- [RelatedChat](https://github.com/relatedcode/Messenger) ★4547 - Open source alternative communication platform. (Swift, MIT License).
+- [Rocket.chat](https://github.com/RocketChat/Rocket.Chat) ★35640 - The communications platform that puts data protection first. (TypeScript, Other license).
+- [Spacebar](https://github.com/spacebarchat/spacebarchat) ★4874 - 📬 Spacebar is a free open source selfhostable discord compatible communication platform. (None, GNU Affero General Public License v3.0).
+- [Zulip](https://github.com/zulip/zulip) ★17825 - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. (Python, Apache License 2.0).
 
 
 ### Video Conferencing (Zoom, Webex, Google Meet, Skype... alternatives)
@@ -46,10 +46,10 @@ The modern workplace often spans cities, countries, and even continents, making 
 
 
 
-- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) ★7992 - Complete open source web conferencing system. (JavaScript, GNU Lesser General Public License v3.0)
-- [Element Call](https://github.com/vector-im/element-call) ★334 - Group calls powered by Matrix (TypeScript, Apache License 2.0)
-- [Galene](https://github.com/jech/galene) ★753 - The Galène videoconference server (Go, MIT License)
-- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★19792 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. (TypeScript, Apache License 2.0)
+- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) ★7992 - Complete open source web conferencing system. (JavaScript, GNU Lesser General Public License v3.0).
+- [Element Call](https://github.com/vector-im/element-call) ★334 - Group calls powered by Matrix. (TypeScript, Apache License 2.0).
+- [Galene](https://github.com/jech/galene) ★753 - The Galène videoconference server. (Go, MIT License).
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★19792 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. (TypeScript, Apache License 2.0).
 
 
 ### Knowledge Bases (Notion alternatives)
@@ -60,11 +60,11 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 
 
 
-- [AFFiNE](https://github.com/toeverything/AFFiNE) ★16358 - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (TypeScript, Mozilla Public License 2.0)
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ★35084 - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (Rust, GNU Affero General Public License v3.0)
-- [MoinMoin](https://github.com/moinwiki/moin) ★254 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. (Python, Other)
-- [XWiki](https://github.com/xwiki/xwiki-platform) ★828 - The XWiki platform (Java, GNU Lesser General Public License v2.1)
-- [MediaWiki](https://github.com/wikimedia/mediawiki) ★3435 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. (PHP, Other)
+- [AFFiNE](https://github.com/toeverything/AFFiNE) ★16358 - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. (TypeScript, Mozilla Public License 2.0).
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ★35084 - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (Rust, GNU Affero General Public License v3.0).
+- [MoinMoin](https://github.com/moinwiki/moin) ★254 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. (Python, Other license).
+- [XWiki](https://github.com/xwiki/xwiki-platform) ★828 - The XWiki platform. (Java, GNU Lesser General Public License v2.1).
+- [MediaWiki](https://github.com/wikimedia/mediawiki) ★3435 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. (PHP, Other license).
 
 
 ### Note-taking / Personal Knowledge Management (Evernote alternatives)
@@ -75,10 +75,10 @@ These tools are designed to help individuals maintain control over their persona
 
 
 
-- [Joplin](https://github.com/laurent22/joplin) ★36057 - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. (TypeScript, Other)
-- [Logseq](https://github.com/logseq/logseq) ★22618 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (Clojure, GNU Affero General Public License v3.0)
-- [Notesnook](https://github.com/streetwriters/notesnook) ★6077 - A fully open source & end-to-end encrypted note taking alternative to Evernote. (JavaScript, GNU General Public License v3.0)
-- [SiYuan](https://github.com/siyuan-note/siyuan) ★10377 - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang. (TypeScript, GNU Affero General Public License v3.0)
+- [Joplin](https://github.com/laurent22/joplin) ★36057 - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. (TypeScript, Other license).
+- [Logseq](https://github.com/logseq/logseq) ★22618 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap. (Clojure, GNU Affero General Public License v3.0).
+- [Notesnook](https://github.com/streetwriters/notesnook) ★6077 - A fully open source & end-to-end encrypted note taking alternative to Evernote. (JavaScript, GNU General Public License v3.0).
+- [SiYuan](https://github.com/siyuan-note/siyuan) ★10377 - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang. (TypeScript, GNU Affero General Public License v3.0).
 
 
 ### Kanban board (Trello alternatives)
@@ -89,10 +89,10 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 
 
-- [Focalboard](https://github.com/mattermost/focalboard) ★15168 - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (TypeScript, Other)
-- [Kanboard](https://github.com/kanboard/kanboard) ★7489 - Kanban project management software (PHP, MIT License)
-- [Planka](https://github.com/plankanban/planka) ★2877 - The realtime kanban board for workgroups built with React and Redux. (JavaScript, GNU Affero General Public License v3.0)
-- [WeKan](https://github.com/wekan/wekan) ★18632 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only. (JavaScript, MIT License)
+- [Focalboard](https://github.com/mattermost/focalboard) ★15168 - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (TypeScript, Other license).
+- [Kanboard](https://github.com/kanboard/kanboard) ★7489 - Kanban project management software. (PHP, MIT License).
+- [Planka](https://github.com/plankanban/planka) ★2877 - The realtime kanban board for workgroups built with React and Redux. (JavaScript, GNU Affero General Public License v3.0).
+- [WeKan](https://github.com/wekan/wekan) ★18632 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only. (JavaScript, MIT License).
 
 
 
@@ -105,35 +105,35 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 
 
-- [Crater](https://github.com/crater-invoice/crater) ★7049 - Open Source Invoicing Solution for Individuals & Businesses (PHP, GNU Affero General Public License v3.0)
-- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ★7100 - Invoices, Expenses and Tasks built with Laravel, Flutter and React (PHP, Other)
-- [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) ★456 - Simple and elegant invoicing solution. (PHP, MIT License)
+- [Crater](https://github.com/crater-invoice/crater) ★7049 - Open Source Invoicing Solution for Individuals & Businesses. (PHP, GNU Affero General Public License v3.0).
+- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ★7100 - Invoices, Expenses and Tasks built with Laravel, Flutter and React. (PHP, Other license).
+- [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) ★456 - Simple and elegant invoicing solution. (PHP, MIT License).
 
 
 ### ERP (SAP Alternatives)
 
 
 
-- [ERP5](https://github.com/Nexedi/erp5) ★157 - ERP5 Open Source ERP/CRM/KM. (Mirror of https://lab.nexedi.com/nexedi/erp5 ; Please submit patches and issues there) (JavaScript, Unknown license)
-- [Odoo](https://github.com/odoo/odoo) ★29241 - Odoo. Open Source Apps To Grow Your Business. (JavaScript, Other)
+- [ERP5](https://github.com/Nexedi/erp5) ★157 - ERP5 Open Source ERP/CRM/KM. (Mirror of https://lab.nexedi.com/nexedi/erp5 ; Please submit patches and issues there). (JavaScript, Unknown license).
+- [Odoo](https://github.com/odoo/odoo) ★29241 - Odoo. Open Source Apps To Grow Your Business. (JavaScript, Other license).
 
 
 ### CRM (Salesforce alternatives)
 
 
 
-- [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★3524 - SuiteCRM - Open source CRM for the world (PHP, GNU Affero General Public License v3.0)
-- [EspoCRM](https://github.com/espocrm/espocrm) ★1120 - EspoCRM open source CRM application (PHP, GNU General Public License v3.0)
+- [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★3524 - SuiteCRM - Open source CRM for the world. (PHP, GNU Affero General Public License v3.0).
+- [EspoCRM](https://github.com/espocrm/espocrm) ★1120 - EspoCRM open source CRM application. (PHP, GNU General Public License v3.0).
 
 
 ### Document Management / ECM (Documentum alternatives)
 
 
 
-- [Alfresco](https://github.com/Alfresco/alfresco-content-app) ★169 - Alfresco Content Application (TypeScript, GNU Lesser General Public License v3.0)
-- [Nuxeo](https://github.com/nuxeo/nuxeo) ★552 - Content management platform to build modern business applications (Java, Unknown license)
-- [OpenKM](https://github.com/openkm/document-management-system) ★581 - OpenKM is a Open Source Document Management System (Java, GNU General Public License v2.0)
-- [LogicalDOC](https://github.com/logicaldoc/community) ★71 - LogicalDOC Community open source document management system https://www.logicaldoc.com (Java, GNU Lesser General Public License v3.0)
+- [Alfresco](https://github.com/Alfresco/alfresco-content-app) ★169 - Alfresco Content Application. (TypeScript, GNU Lesser General Public License v3.0).
+- [Nuxeo](https://github.com/nuxeo/nuxeo) ★552 - Content management platform to build modern business applications. (Java, Unknown license).
+- [OpenKM](https://github.com/openkm/document-management-system) ★581 - OpenKM is a Open Source Document Management System. (Java, GNU General Public License v2.0).
+- [LogicalDOC](https://github.com/logicaldoc/community) ★71 - LogicalDOC Community open source document management system https://www.logicaldoc.com. (Java, GNU Lesser General Public License v3.0).
 - [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms) - Free Open Source DMS (document management system).
 
 
@@ -148,9 +148,9 @@ This it not the first list of free / open source software. Here are some other l
 
 
 
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★133447 - A list of Free Software network services and web applications which can be hosted on your own servers (Makefile, Other)
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★133448 - A list of Free Software network services and web applications which can be hosted on your own servers. (Makefile, Other license).
 - [AFS ONE](https://www.afs.one/aa45803b67/#/?page=afs_directory&editable=true)
 
-- [Awesome Free Software](https://github.com/abilian/awesome-free-software) ★0 - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases  (None, Unknown license)
+- [Awesome Free Software](https://github.com/abilian/awesome-free-software) ★0 - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases. (None, Unknown license).
 - [Guide des solutions open source](https://guide-solutions-opensource.com/) (en French)
 
