@@ -36,6 +36,7 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) ★16403 - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. [TS, Mozilla Public License 2.0].
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ★35146 - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. [🦀, GNU Affero General Public License v3.0].
+- [BookStack](https://github.com/BookStackApp/BookStack) ★11600 - An open source platform for storing documentation, built with an opinionated design to target ease of use for mixed-skill teams. [🐘, MIT].
 - [MoinMoin](https://github.com/moinwiki/moin) ★254 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★828 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
 - [MediaWiki](https://github.com/wikimedia/mediawiki) ★3435 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
