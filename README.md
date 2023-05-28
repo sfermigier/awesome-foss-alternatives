@@ -43,6 +43,8 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 
 More:
 
+- [WikiMatrix](https://www.wikimatrix.org/) - Compare them all. (WikiMatrix helps you compare the features of many different Wikis in a comfortable side-by-side table.).
+- [List of wiki software](https://en.wikipedia.org/wiki/List_of_wiki_software) on Wikipedia.
 - List of [Wiki Engines](https://wiki.c2.com/?WikiEngines) ow C2. (Exhaustive list of wiki engines, including long-dead ones, with a short description of each one).
 
 ### Note-taking / Personal Knowledge Management (Evernote alternatives)
