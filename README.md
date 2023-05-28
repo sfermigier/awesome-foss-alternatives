@@ -41,6 +41,10 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★828 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
 - [MediaWiki](https://github.com/wikimedia/mediawiki) ★3436 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
 
+More:
+
+- List of [Wiki Engines](https://wiki.c2.com/?WikiEngines) ow C2. (Exhaustive list of wiki engines, including long-dead ones, with a short description of each one).
+
 ### Note-taking / Personal Knowledge Management (Evernote alternatives)
 
 These tools are designed to help individuals maintain control over their personal knowledge sphere. These platforms, offering an alternative to the popular Evernote service, enable users to record thoughts, capture information from various sources, and organize these snippets of knowledge in a way that best suits their unique cognitive and workflow preferences.
@@ -93,6 +97,10 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 - [Wordpress](https://github.com/WordPress/WordPress) ★17516 - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. [PHP, Other license].
 - [Ghost](https://github.com/TryGhost/Ghost) ★43293 - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. [JS, MIT License].
+
+More:
+
+- https://en.wikipedia.org/wiki/List_of_content_management_systems (not all open source)
 
 ### Blogging platform/ Personal website builder (Medium alternatives)
 
@@ -151,8 +159,8 @@ More:
 ### Push notifications (OneSignal alternatives)
 
 - [Apprise](https://github.com/caronc/apprise) ★8065 - Apprise - Push Notifications that work with just about every platform!. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [ntfy](https://github.com/binwiederhier/ntfy) ★10655 - Send push notifications to your phone or desktop using PUT/POST. [Go, Apache License 2.0].
 - [Novu](https://github.com/novuhq/novu) ★20787 - The open-source notification infrastructure with fully functional embedded notification center. [TS, MIT License].
+- [ntfy](https://github.com/binwiederhier/ntfy) ★10655 - Send push notifications to your phone or desktop using PUT/POST. [Go, Apache License 2.0].
 
 ### Logging (Loggly alternatives)
 
@@ -163,23 +171,23 @@ More:
 
 ### Bug tracking (Jira alternatives):
 
+- [Bugzilla](https://github.com/bugzilla/bugzilla) ★543 - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:. [Perl, Mozilla Public License 2.0].
 - [Redmine](https://github.com/redmine/redmine) ★4746 - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp. [💎, Unknown license].
 - [Taiga](https://github.com/taigaio/taiga-back) ★5802 - Agile project management platform. Built on top of Django and AngularJS. [🐍, GNU Affero General Public License v3.0].
-- [Bugzilla](https://github.com/bugzilla/bugzilla) ★543 - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:. [Perl, Mozilla Public License 2.0].
 
 ### Code hosting & collaboration (Github alternatives)
 
-- [Gitlab](https://github.com/gitlabhq/gitlabhq) ★23275 - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com. [💎, Other license].
 - [Gitea](https://github.com/go-gitea/gitea) ★36774 - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD. [Go, MIT License].
+- [Gitlab](https://github.com/gitlabhq/gitlabhq) ★23275 - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com. [💎, Other license].
 - [Gogs](https://github.com/gogs/gogs) ★42329 - Gogs is a painless self-hosted Git service. [Go, MIT License].
-- [Sourcehut](https://sourcehut.org/) - This suite of open source tools is the software development platform you've been waiting for.
 - [Pagure](https://github.com/Pagure/pagure) ★194 - pagure is a light-weight git-centered forge based on pygit2. (MIRROR). [🐍, GNU General Public License v2.0].
+- [Sourcehut](https://sourcehut.org/) - This suite of open source tools is the software development platform you've been waiting for.
 
 ### Continuous integration (CircleCI alternatives)
 
+- [Buildbot](https://github.com/buildbot/buildbot) ★5042 - Python-based continuous integration testing framework; your pull requests are more than welcome!. [🐍, GNU General Public License v2.0].
 - [Drone](https://github.com/harness/drone) ★26890 - Drone is a Container-Native, Continuous Delivery Platform. [Go, Other license].
 - [Jenkins](https://github.com/jenkinsci/jenkins) ★20861 - Jenkins automation server. [☕️, MIT License].
-- [Buildbot](https://github.com/buildbot/buildbot) ★5042 - Python-based continuous integration testing framework; your pull requests are more than welcome!. [🐍, GNU General Public License v2.0].
 
 ### Code review (Github alternatives)
 
