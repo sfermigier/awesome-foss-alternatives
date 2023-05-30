@@ -99,6 +99,7 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 - [Wordpress](https://github.com/WordPress/WordPress) ★17516 - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. [PHP, Other license].
 - [Ghost](https://github.com/TryGhost/Ghost) ★43293 - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. [JS, MIT License].
+- [Elegant](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, Markdown, and much more.
 
 More:
 
