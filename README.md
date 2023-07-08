@@ -76,6 +76,7 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 ### ERP (SAP Alternatives)
 
+- [Dolibarr](https://www.dolibarr.org) ★4200 - ERP, CRM, POS, RH
 - [ERP5](https://github.com/Nexedi/erp5) ★158 - ERP5 Open Source ERP/CRM/KM. (Mirror of https://lab.nexedi.com/nexedi/erp5 ; Please submit patches and issues there). [JS, Unknown license].
 - [Odoo](https://github.com/odoo/odoo) ★29297 - Odoo. Open Source Apps To Grow Your Business. [JS, Other license].
 
