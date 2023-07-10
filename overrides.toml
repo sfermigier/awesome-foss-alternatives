@@ -1,0 +1,5 @@
+[odoo.odoo]
+language = "Python"
+
+[nexedi.erp5]
+language = "Python"
