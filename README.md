@@ -165,6 +165,10 @@ More:
 - [Novu](https://github.com/novuhq/novu) ★24004 - The open-source notification infrastructure with fully functional embedded notification center. [TS, MIT License].
 - [ntfy](https://github.com/binwiederhier/ntfy) ★12877 - Send push notifications to your phone or desktop using PUT/POST. [Go, Apache License 2.0].
 
+### Webhooks notifications (Svix, HostedHooks alternatives)
+
+- [Hook0](https://www.hook0.com/) ★236 - Open-Source webhooks api and server that makes it easy for developers to send webhooks from their app and SaaS. [☕️, Other license].
+
 ### Logging (Loggly alternatives)
 
 - [Graylog](https://github.com/Graylog2/graylog2-server) ★6725 - Free and open log management. [☕️, Other license].
