@@ -170,6 +170,11 @@ More:
 - [Graylog](https://github.com/Graylog2/graylog2-server) ★6725 - Free and open log management. [☕️, Other license].
 
 
+### Monitoring/Observability (Datadog alternatives)
+
+- [hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. [MIT License].
+- [signoz](https://github.com/signoz/signoz)
+
 ## Software development
 
 ### Bug tracking (Jira alternatives):
