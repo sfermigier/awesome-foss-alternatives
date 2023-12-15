@@ -125,6 +125,7 @@ More:
 - [Hugo](https://github.com/gohugoio/hugo) ★70355 - The world’s fastest framework for building websites. [Go, Apache License 2.0].
 - [Jekyll](https://github.com/jekyll/jekyll) ★47646 - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby. [💎, MIT License].
 - [Lektor](https://github.com/lektor/lektor) ★3731 - The lektor static file content management system. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [Pelican](https://github.com/getpelican/pelican) ★11914 - Static site generator that supports Markdown and reST syntax. Powered by Python. 
 - [Zola](https://github.com/getzola/zola) ★12008 - A fast static site generator in a single binary with everything built-in. https://www.getzola.org. [🦀, MIT License].
 
 More:
