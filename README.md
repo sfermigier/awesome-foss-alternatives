@@ -78,14 +78,13 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 - [Dolibarr](https://www.dolibarr.org) ★4200 - ERP, CRM, POS, RH
 - [ERP5](https://github.com/Nexedi/erp5) ★174 - ERP5 Open Source ERP/CRM/KM. (Mirror of https://lab.nexedi.com/nexedi/erp5 ; Please submit patches and issues there). [JS, Unknown license].
+- [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ★4206 - IDURAR ERP CRM – Open Code Source ERP CRM Application. [JS, Other license].
 - [Odoo](https://github.com/odoo/odoo) ★32131 - Odoo. Open Source Apps To Grow Your Business. [JS, Other license].
-- [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ★4206  ★3700 - IDURAR ERP CRM – Open Code Source ERP CRM Application. [JS, Other license].
 
 ### CRM (Salesforce alternatives)
 
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★3889 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
 - [EspoCRM](https://github.com/espocrm/espocrm) ★1343 - EspoCRM – Open Source CRM Application. [PHP, GNU General Public License v3.0].
-- [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ★4206  ★3700 - IDURAR ERP CRM – Open Code Source ERP CRM Application. [JS, Other license].
 
 ### Document Management / ECM (Documentum alternatives)
 
