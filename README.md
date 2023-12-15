@@ -189,7 +189,7 @@ More:
 - [Bugzilla](https://github.com/bugzilla/bugzilla) ★578 - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:. [Perl, Mozilla Public License 2.0].
 - [Plane](https://github.com/makeplane/plane) ★15015 - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. [TS, GNU Affero General Public License v3.0].
 - [Redmine](https://github.com/redmine/redmine) ★4889 - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp. [💎, Unknown license].
-- [Taiga](https://github.com/taigaio/taiga-back) ★5809 - Agile project management platform. Built on top of Django and AngularJS. [🐍, GNU Affero General Public License v3.0].
+- [Taiga](https://github.com/taigaio/taiga) ★5809 - Agile project management platform. Built on top of Django and AngularJS. [🐍, GNU Affero General Public License v3.0].
 
 ### Code hosting & collaboration (Github alternatives)
 
