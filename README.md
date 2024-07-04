@@ -60,7 +60,7 @@ These tools are designed to help individuals maintain control over their persona
 
 The way we organize and manage our tasks has a significant impact on productivity, and so called "Kanban boards" have proven to be a powerful tool in this regard, by facilitating the visual management of work using the Kanban methodology. These alternatives to Trello offer features such as task cards, customizable boards, and progress tracking that help individuals and teams visualize workflow, manage work-in-progress, and enhance overall productivity.
 
-- [Focalboard](https://github.com/mattermost/focalboard) ★20682 - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. [TS, Other license].
+- [Focalboard](https://github.com/mattermost/focalboard) ★20683 - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. [TS, Other license].
 - [Kanboard](https://github.com/kanboard/kanboard) ★8266 - Kanban project management software. [PHP, MIT License].
 - [Planka](https://github.com/plankanban/planka) ★7287 - The realtime kanban board for workgroups built with React and Redux. [JS, GNU Affero General Public License v3.0].
 - [WeKan](https://github.com/wekan/wekan) ★19238 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. [JS, MIT License].
@@ -114,7 +114,7 @@ More:
 ### Web analytics (Google Analytics alternatives)
 
 - [Matomo](https://github.com/matomo-org/matomo) ★19294 - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests!. [PHP, GNU General Public License v3.0].
-- [Plausible](https://github.com/plausible/analytics) ★18966 - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. [💧, GNU Affero General Public License v3.0].
+- [Plausible](https://github.com/plausible/analytics) ★18967 - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. [💧, GNU Affero General Public License v3.0].
 - [Shynet](https://github.com/milesmcc/shynet) ★2861 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. [🐍, Apache License 2.0].
 - [Umami](https://github.com/umami-software/umami) ★20467 - Umami is a simple, fast, privacy-focused alternative to Google Analytics. [TS, MIT License].
 
@@ -136,10 +136,10 @@ More:
 
 ### Platform as a Service / PaaS (Heroku, Fly, Render... alternatives):
 
-- [Abilian Hop3](https://github.com/abilian/hop3) ★0 - Hop3 - Deploy and manage web applications on a single server. [🐍, Other license].
+- [Abilian Hop3](https://github.com/abilian/hop3) ★1 - Hop3 - Deploy and manage web applications on a single server. [🐍, Other license].
 - [Abilian Nua](https://github.com/abilian/nua) ★36 - Open source PaaS and application marketplace. [🐍, GNU Affero General Public License v3.0].
 - [CapRover](https://github.com/caprover/caprover) ★12619 - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids. [TS, Other license].
-- [Coolify](https://github.com/coollabsio/coolify) ★26159 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
+- [Coolify](https://github.com/coollabsio/coolify) ★26160 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
 - [Dokku](https://github.com/dokku/dokku) ★26372 - A docker-powered PaaS that helps you build and manage the lifecycle of applications. [Shell, MIT License].
 
 ### User authentication (Auth0 alternatives)
@@ -160,12 +160,12 @@ More:
 
 - [Appwrite](https://github.com/appwrite/appwrite) ★42257 - Your backend, minus the hassle. [TS, BSD 3-Clause "New" or "Revised" License].
 - [Nhost](https://github.com/nhost/nhost) ★7671 - The Open Source Firebase Alternative with GraphQL. [TS, MIT License].
-- [Supabase](https://github.com/supabase/supabase) ★68301 - The open source Firebase alternative. [TS, Apache License 2.0].
+- [Supabase](https://github.com/supabase/supabase) ★68302 - The open source Firebase alternative. [TS, Apache License 2.0].
 
 ### Push notifications (OneSignal alternatives)
 
 - [Apprise](https://github.com/caronc/apprise) ★10910 - Apprise - Push Notifications that work with just about every platform!. [🐍, BSD 2-Clause "Simplified" License].
-- [Novu](https://github.com/novuhq/novu) ★33692 - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. [TS, Other license].
+- [Novu](https://github.com/novuhq/novu) ★33693 - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. [TS, Other license].
 - [ntfy](https://github.com/binwiederhier/ntfy) ★17218 - Send push notifications to your phone or desktop using PUT/POST. [Go, Apache License 2.0].
 
 ### Webhooks notifications (Svix, HostedHooks alternatives)
@@ -203,7 +203,7 @@ More:
 ### Continuous integration (CircleCI alternatives)
 
 - [Buildbot](https://github.com/buildbot/buildbot) ★5199 - Python-based continuous integration testing framework; your pull requests are more than welcome!. [🐍, GNU General Public License v2.0].
-- [Drone](https://github.com/harness/drone) ★31861 - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. [Go, Apache License 2.0].
+- [Drone](https://github.com/harness/drone) ★31862 - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. [Go, Apache License 2.0].
 - [Jenkins](https://github.com/jenkinsci/jenkins) ★22694 - Jenkins automation server. [☕️, MIT License].
 
 ### Code review (Github alternatives)
@@ -217,10 +217,12 @@ More:
 
 This it not the first list of free / open source software. Here are some other lists:
 
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★186014 - A list of Free Software network services and web applications which can be hosted on your own servers. [Other license].
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★186015 - A list of Free Software network services and web applications which can be hosted on your own servers. [Other license].
 - [AFS ONE](https://www.afs.one/aa45803b67/#/?page=afs_directory&editable=true) - Free Software Publisher Directory.
-- [Awesome Free Software](https://github.com/abilian/awesome-free-software) ★5 - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases. [Unknown license].
+- [Awesome Free Software](https://github.com/abilian/awesome-free-software) ★6 - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases. [Unknown license].
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives) ★15501 - Awesome list of open-source startup alternatives to well-known SaaS products 🚀. [🐍, MIT License].
 - [Guide des solutions open source](https://guide-solutions-opensource.com/) (in French)
 - [SILL - Catalogue de référence de logiciels libres recommandés pour l'ensemble de l'administration](https://sill.etalab.gouv.fr/) (in French)
 - [Comptoir du Libre](https://comptoir-du-libre.org/en/softwares) (in French)
+- [Awesome F/OSS](https://awsmfoss.com/) - "Explore the universe of awesome Free and Open Source software."
+- [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★1631 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
