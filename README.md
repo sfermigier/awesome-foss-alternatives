@@ -226,3 +226,4 @@ This it not the first list of free / open source software. Here are some other l
 - [Comptoir du Libre](https://comptoir-du-libre.org/en/softwares) (in French)
 - [Awesome F/OSS](https://awsmfoss.com/) - "Explore the universe of awesome Free and Open Source software."
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★1631 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
+- [Open-source alternatives](https://opensource.builders/)
