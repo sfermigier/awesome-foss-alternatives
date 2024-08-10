@@ -115,6 +115,7 @@ More:
 
 - [Matomo](https://github.com/matomo-org/matomo) ★19294 - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests!. [PHP, GNU General Public License v3.0].
 - [Plausible](https://github.com/plausible/analytics) ★18967 - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. [💧, GNU Affero General Public License v3.0].
+- [Prisme Analytics](https://github.com/prismelabs/analytics) ★11 - 💎 An Open Source, privacy-focused and progressive analytics service. [💧, GNU Affero General Public License v3.0].
 - [Shynet](https://github.com/milesmcc/shynet) ★2861 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. [🐍, Apache License 2.0].
 - [Umami](https://github.com/umami-software/umami) ★20467 - Umami is a simple, fast, privacy-focused alternative to Google Analytics. [TS, MIT License].
 
