@@ -94,6 +94,9 @@ The way we organize and manage our tasks has a significant impact on productivit
 - [LogicalDOC](https://github.com/logicaldoc/community) ★95 - LogicalDOC Community open source document management system https://www.logicaldoc.com. [☕️, GNU Lesser General Public License v3.0].
 - [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms) - Free Open Source DMS (document management system).
 
+### Applicant Tracking System
+
+- [FreeATS](https://github.com/freeats/freeats) - An open source applicant tracking system with self-hosting capabilities. [💎, MIT License].
 
 ## Web
 
