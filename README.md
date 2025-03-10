@@ -164,6 +164,7 @@ More:
 - [Appwrite](https://github.com/appwrite/appwrite) ★44056 - Your backend, minus the hassle. [TS, BSD 3-Clause "New" or "Revised" License].
 - [Nhost](https://github.com/nhost/nhost) ★7858 - The Open Source Firebase Alternative with GraphQL. [TS, MIT License].
 - [Supabase](https://github.com/supabase/supabase) ★72273 - The open source Firebase alternative. [TS, Apache License 2.0].
+- [Manifest](https://github.com/mnfst/manifest) ★1779 - Open-Source backend in a single YAML file. [YAML, MIT License].
 
 ### Push notifications (OneSignal alternatives)
 
