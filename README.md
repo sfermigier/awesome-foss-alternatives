@@ -6,6 +6,11 @@ This guide, along with the resources listed at its conclusion, provides an exten
 
 This is a work in progress. Please contribute!
 
+
+> [!NOTE]
+> New (2025): more alternatives here: <https://euro-stack.com/alternatives/>
+
+
 [TOC]
 
 ## Collaboration
