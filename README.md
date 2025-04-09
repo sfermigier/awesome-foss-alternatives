@@ -228,6 +228,7 @@ More:
 
 This it not the first list of free / open source software. Here are some other lists:
 
+- [EuroStack Directory](https://euro-stack.com/alternatives/) - A curated list of open-source alternatives to popular SaaS products, with a focus on European solutions.
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★223948 - A list of Free Software network services and web applications which can be hosted on your own servers. [Other license].
 - [AFS ONE](https://www.afs.one/aa45803b67/#/?page=afs_directory&editable=true) - Free Software Publisher Directory.
 - [Awesome Free Software](https://github.com/abilian/awesome-free-software) ★7 - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases. [Unknown license].
