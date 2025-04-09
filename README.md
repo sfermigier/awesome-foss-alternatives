@@ -157,6 +157,7 @@ More:
 - [Keycloak](https://github.com/keycloak/keycloak) ★26453 - Open Source Identity and Access Management For Modern Applications and Services. [☕️, Apache License 2.0].
 - [Logto](https://github.com/logto-io/logto) ★9819 - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions. [TS, Mozilla Public License 2.0].
 - [SuperTokens](https://github.com/supertokens/supertokens-core) ★14029 - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. [☕️, Other license].
+- [Authgear](https://github.com/authgear/authgear-server) ★90 - Authgear is an open-source Auth0/Clerk alternative for all of your consumer authentication needs. Get started in 5 minutes to integrate passwordless login, passkeys, 2FA, and enterprise-grade security into your applications. It supports modern authentication protocols OIDC and SAML. It features a web portal for user management and setting up authentication/authorization configurations. [☕️, Apache License 2.0]
 
 ### Search (Algolia alternatives)
 
