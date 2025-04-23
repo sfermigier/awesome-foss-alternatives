@@ -206,6 +206,7 @@ More:
 
 ### Code hosting & collaboration (Github alternatives)
 
+- [Forgejo](https://codeberg.org/forgejo/forgejo) ★2200 - Forgejo is a self-hosted lightweight software forge maintained by an inclusive community under the umbrella of Codeberg e.V., a registered non-profit association based in Berlin, Germany. [Go, GNU General Public License v3.0].
 - [Gitea](https://github.com/go-gitea/gitea) ★47968 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. [Go, MIT License].
 - [Gitlab](https://github.com/gitlabhq/gitlabhq) ★23950 - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com. [💎, Other license].
 - [Gogs](https://github.com/gogs/gogs) ★46174 - Gogs is a painless self-hosted Git service. [Go, MIT License].
