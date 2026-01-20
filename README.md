@@ -241,3 +241,4 @@ This it not the first list of free / open source software. Here are some other l
 - [Awesome F/OSS](https://awsmfoss.com/) - "Explore the universe of awesome Free and Open Source software."
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★2073 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
 - [Open-source alternatives](https://opensource.builders/)
+- [PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
