@@ -91,6 +91,12 @@ The way we organize and manage our tasks has a significant impact on productivit
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5076 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
 - [EspoCRM](https://github.com/espocrm/espocrm) ★2530 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
 
+### Customer Feedback / Feature Voting (Canny alternatives)
+
+Platforms for collecting, organizing, and prioritizing customer feedback, feature requests, and ideas. These tools help product teams understand user needs and build better products.
+
+- [Quackback](https://github.com/QuackbackIO/quackback) - Open-source customer feedback platform with public boards, roadmaps, and changelogs. [TS, GNU Affero General Public License v3.0].
+
 ### Document Management / ECM (Documentum alternatives)
 
 - [Alfresco](https://github.com/Alfresco/alfresco-content-app) ★201 - Alfresco Content Application. [TS, GNU Lesser General Public License v3.0].
