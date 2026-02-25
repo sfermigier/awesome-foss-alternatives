@@ -44,6 +44,7 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 - [BookStack](https://github.com/BookStackApp/BookStack) ★17457 - A platform to create documentation/wiki content built with PHP & Laravel. [PHP, MIT License].
 - [MediaWiki](https://github.com/wikimedia/mediawiki) ★4761 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
 - [MoinMoin](https://github.com/moinwiki/moin) ★350 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
+- [Taskade](https://github.com/taskade/taskade) ★4 - AI-native workspace to build apps, deploy AI agents, and automate workflows. Features real-time collaboration, task management, and knowledge bases. [TS, MIT License].
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★1138 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
 
 More:
