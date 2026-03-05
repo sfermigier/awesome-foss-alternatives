@@ -70,6 +70,12 @@ The way we organize and manage our tasks has a significant impact on productivit
 - [Planka](https://github.com/plankanban/planka) ★10718 - The realtime kanban board for workgroups built with React and Redux. [JS, GNU Affero General Public License v3.0].
 - [WeKan](https://github.com/wekan/wekan) ★20622 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. [JS, MIT License].
 
+### Scheduling / Appointment Booking (Calendly alternatives)
+
+Self-hostable alternatives to Calendly and similar scheduling tools, letting individuals and teams share their availability and accept bookings without vendor lock-in.
+
+- [Tymeslot](https://github.com/Tymeslot/tymeslot) ★34 - Open-source meeting scheduling platform. Share your availability and let guests book time with you. [Elixir, Other license].
+
 
 ## Business
 
