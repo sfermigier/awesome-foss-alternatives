@@ -147,6 +147,12 @@ More:
 - [A List of Static Site Generators for Jamstack Sites ](https://jamstack.org/generators/)
 - [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators) ★3480 - A curated list of static web site generators. [Creative Commons Zero v1.0 Universal].
 
+### SaaS Boilerplate / Starter Kit (ShipFast, Supastarter, SaaS Pegasus alternatives)
+
+These tools provide a ready-made foundation for building SaaS applications, offering built-in authentication, billing, user management, and other common SaaS features out of the box. They serve as alternatives to proprietary boilerplates like ShipFast, Supastarter, and SaaS Pegasus.
+
+- [LastSaaS](https://github.com/jonradoff/lastsaas) ★1 - Open-source SaaS platform and boilerplate with built-in authentication, Stripe billing, user management, and admin dashboard. [Go, MIT License].
+
 ## Platforms services and devops
 
 ### Platform as a Service / PaaS (Heroku, Fly, Render... alternatives):
