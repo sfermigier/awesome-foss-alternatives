@@ -125,6 +125,10 @@ More:
 - [btw](https://github.com/btw-so/btw) ★1015 - Open source Medium alternative- set up your personal blog in minutes. [JS, GNU General Public License v3.0].
 - [WriteFreely](https://github.com/writefreely/writefreely) ★4913 - A clean, Markdown-based publishing platform made for writers. Write together and build a community. [Go, GNU Affero General Public License v3.0].
 
+
+### Website builder (Webflow, Wix, Squarespace alternatives)
+
+- [Silex](https://github.com/silexlabs/Silex) ★2728 - Free/libre, online tool for visually creating static sites with dynamic data. No vendor lock-in, self-hosted, desktop version available. [TS, GNU Affero General Public License v3.0].
 ### Web analytics (Google Analytics alternatives)
 
 - [Matomo](https://github.com/matomo-org/matomo) ★20895 - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!. [PHP, GNU General Public License v3.0].
