@@ -35,6 +35,10 @@ The modern workplace often spans cities, countries, and even continents, making 
 - [Galene](https://github.com/jech/galene) ★1162 - The Galène videoconference server. [Go, MIT License].
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★27312 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. [TS, Apache License 2.0].
 
+### Transcription (Otter.ai, Rev alternatives)
+
+- [Vocova](https://vocova.app) - AI transcription with speaker diarization, 100+ languages, and bilingual export. Alternative to Otter.ai and Rev. (Freemium)
+
 ### Knowledge Bases (Notion alternatives)
 
 Knowledge is the cornerstone of any successful organization, and managing it effectively is crucial. This category focuses on platforms that provide a means for businesses and individuals to store, organize, and share information effectively. These alternatives to Notion - a popular collaboration platform - offer users a versatile and interactive environment for creating, managing, and sharing digital content. From taking notes, tracking tasks, managing projects to creating an internal wiki, these FOSS options provide an array of features that support diverse knowledge management needs while aligning with the principles of openness, flexibility, and community-oriented development.
