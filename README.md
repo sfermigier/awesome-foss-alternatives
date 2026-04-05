@@ -98,6 +98,18 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5334 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
 - [EspoCRM](https://github.com/espocrm/espocrm) ★2846 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
 
+### Sales Engagement (Outreach, Salesloft alternatives)
+
+These CLI-first tools provide alternatives to proprietary sales engagement platforms, enabling multi-channel outbound campaigns and prospect management directly from the terminal.
+
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) ★4 - AI-powered outbound engine. Source contacts from a 450M+ database, run multi-channel campaigns (email + LinkedIn), and enroll prospects. JSON output. [TS, MIT License].
+
+### Intent Data / Buyer Signals (Bombora, 6sense alternatives)
+
+Tools for monitoring buyer intent signals and identifying in-market prospects without relying on proprietary data platforms.
+
+- [Signals CLI](https://github.com/sortlist/signals-cli) ★1 - Intent signal monitoring for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output. [TS, MIT License].
+
 ### Customer Feedback / Feature Voting (Canny alternatives)
 
 Platforms for collecting, organizing, and prioritizing customer feedback, feature requests, and ideas. These tools help product teams understand user needs and build better products.
