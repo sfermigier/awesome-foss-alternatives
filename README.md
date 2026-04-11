@@ -144,6 +144,10 @@ More:
 - [Shynet](https://github.com/milesmcc/shynet) ★3131 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. [🐍, Apache License 2.0].
 - [Umami](https://github.com/umami-software/umami) ★35907 - Umami is a simple, fast, privacy-focused alternative to Google Analytics. [TS, MIT License].
 
+### SEO & Google Ads (Ahrefs, SEMrush alternatives)
+
+- [toprank](https://github.com/nowork-studio/toprank) ★107 - Open-source Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic and wasted ad spend, rewrite meta tags, generate JSON-LD schema markup, and ship fixes to WordPress/Strapi/Contentful/Ghost. Agentic workflow inside Claude Code rather than a dashboard. [Python, MIT License].
+
 ### Static website generator
 
 - [11ty](https://github.com/11ty/eleventy) ★19530 - A simpler site generator. Transforms a directory of templates (of varying types) into HTML. [JS, MIT License].
