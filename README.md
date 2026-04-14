@@ -34,6 +34,7 @@ The modern workplace often spans cities, countries, and even continents, making 
 - [Element Call](https://github.com/vector-im/element-call) ★926 - Group calls powered by Matrix. [TS, GNU Affero General Public License v3.0].
 - [Galene](https://github.com/jech/galene) ★1275 - The Galène videoconference server. [Go, MIT License].
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★28903 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. [TS, Apache License 2.0].
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Knowledge Bases (Notion alternatives)
 
