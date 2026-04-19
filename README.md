@@ -137,6 +137,10 @@ More:
 ### Website builder (Webflow, Wix, Squarespace alternatives)
 
 - [Silex](https://github.com/silexlabs/Silex) ★2741 - Free/libre, online tool for visually creating static sites with dynamic data. No vendor lock-in, self-hosted, desktop version available. [TS, GNU Affero General Public License v3.0].
+### A/B Testing & Personalization (Google Optimize, Optimizely alternatives)
+
+- [ExperimentFlow](https://experimentflow.com) - A/B testing and AI personalisation platform for optimizing web experiences and conversion rates.
+
 ### Web analytics (Google Analytics alternatives)
 
 - [Matomo](https://github.com/matomo-org/matomo) ★21380 - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!. [PHP, GNU General Public License v3.0].
@@ -189,6 +193,10 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Sonic](https://github.com/valeriansaliou/sonic) ★21176 - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. [🦀, Mozilla Public License 2.0].
 - [Tantivy](https://github.com/quickwit-oss/tantivy) ★14812 - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust. [🦀, MIT License].
 - [Typesense](https://github.com/typesense/typesense) ★25464 - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences. [C++, GNU General Public License v3.0].
+
+### AI/LLM API Gateway (OpenAI, proprietary LLM API gateway alternatives)
+
+- [OpenPaths](https://openpaths.io) - Open source model router with universal API for LLMs. Route requests across multiple AI providers with a single unified endpoint.
 
 ### Backend-as-a-Service (Firebase alternatives)
 
