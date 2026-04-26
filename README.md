@@ -174,6 +174,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [CapRover](https://github.com/caprover/caprover) ★14941 - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids. [TS, Other license].
 - [Coolify](https://github.com/coollabsio/coolify) ★52388 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
 - [Dokku](https://github.com/dokku/dokku) ★31924 - A docker-powered PaaS that helps you build and manage the lifecycle of applications. [Shell, MIT License].
+- [France Nuage](https://github.com/France-Nuage/plateforme) ★54 - Sovereign open-source cloud platform: managed hosting of open-source apps and S3-compatible storage. [TS, Server Side Public License v1].
 
 ### User authentication (Auth0 alternatives)
 
@@ -205,7 +206,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### Webhooks notifications (Svix, HostedHooks alternatives)
 
-- [Hook0](https://www.hook0.com/) ★236 - Open-Source webhooks api and server that makes it easy for developers to send webhooks from their app and SaaS. [☕️, Other license].
+- [Hook0](https://github.com/hook0/hook0) ★1406 - Open-source webhook server written in Rust that helps you provide webhooks to your users. [🦀, Server Side Public License v1].
 
 ### Logging (Loggly alternatives)
 
