@@ -60,6 +60,7 @@ These tools are designed to help individuals maintain control over their persona
 - [Logseq](https://github.com/logseq/logseq) ★41758 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap. [Clojure, GNU Affero General Public License v3.0].
 - [Notesnook](https://github.com/streetwriters/notesnook) ★13872 - A fully open source & end-to-end encrypted note taking alternative to Evernote. [TS, GNU General Public License v3.0].
 - [SiYuan](https://github.com/siyuan-note/siyuan) ★42209 - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. [TS, GNU Affero General Public License v3.0].
+- [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad for Linux with Markdown preview, real PDF export via Typst, OCR, and automatic version history. Built with Tauri 2 (Rust). Available on AUR. [Rust/TS, MIT].
 
 ### Kanban board (Trello alternatives)
 
@@ -174,6 +175,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [CapRover](https://github.com/caprover/caprover) ★14941 - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids. [TS, Other license].
 - [Coolify](https://github.com/coollabsio/coolify) ★52388 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
 - [Dokku](https://github.com/dokku/dokku) ★31924 - A docker-powered PaaS that helps you build and manage the lifecycle of applications. [Shell, MIT License].
+- [France Nuage](https://github.com/France-Nuage/plateforme) ★54 - Sovereign open-source cloud platform: managed hosting of open-source apps and S3-compatible storage. [TS, Server Side Public License v1].
 
 ### User authentication (Auth0 alternatives)
 
@@ -205,7 +207,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### Webhooks notifications (Svix, HostedHooks alternatives)
 
-- [Hook0](https://www.hook0.com/) ★236 - Open-Source webhooks api and server that makes it easy for developers to send webhooks from their app and SaaS. [☕️, Other license].
+- [Hook0](https://github.com/hook0/hook0) ★1406 - Open-source webhook server written in Rust that helps you provide webhooks to your users. [🦀, Server Side Public License v1].
 
 ### Logging (Loggly alternatives)
 
@@ -219,6 +221,8 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [signoz](https://github.com/signoz/signoz) ★26329 - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool. [TS, Other license].
 - [Sentry](https://github.com/getsentry/sentry) ★43468 - Developer-first error tracking and performance monitoring. [🐍, Other license].
 - [KubeStellar Console](https://github.com/kubestellar/console) ★66 - Multi-cluster Kubernetes dashboard with real-time observability, compliance monitoring, and AI-powered operations across edge and cloud clusters. CNCF project. [Go/TS, Apache License 2.0].
+- [VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) ★1904 - Fast and easy to use database for logs, which can efficiently handle terabytes of logs. [Go, Apache License 2.0].
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ★17055 - Fast, cost-effective monitoring solution and time series database. [Go, Apache License 2.0].
 
 ## Software development
 
@@ -267,6 +271,7 @@ This it not the first list of free / open source software. Here are some other l
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★2659 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
 - [Open-source alternatives](https://opensource.builders/)
 - [PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
+- [os-alt](https://code-rho-dun.vercel.app) - Directory of paid SaaS with strictly self-hostable open-source alternatives, listing setup-time score, monthly self-host cost estimate, and migration sketch per tool.
 
 
 ## Other lists
