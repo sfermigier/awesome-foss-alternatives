@@ -79,6 +79,11 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [Tymeslot](https://github.com/Tymeslot/tymeslot) ★50 - Open-source meeting scheduling platform. Share your availability and let guests book time with you. [Elixir, Other license].
 
 
+### Email (Gmail / Proton Mail alternatives)
+
+- **[Aster Mail](https://github.com/Aster-Privacy/Aster-Mail)** - "Quantum-safe end-to-end encrypted email. Alternative to Gmail, Proton Mail." [AGPL-3.0]
+
+
 ## Business
 
 ### Invoicing (FreshBooks / QuickBooks alternatives)
