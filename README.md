@@ -60,6 +60,7 @@ These tools are designed to help individuals maintain control over their persona
 - [Logseq](https://github.com/logseq/logseq) ★41758 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap. [Clojure, GNU Affero General Public License v3.0].
 - [Notesnook](https://github.com/streetwriters/notesnook) ★13872 - A fully open source & end-to-end encrypted note taking alternative to Evernote. [TS, GNU General Public License v3.0].
 - [SiYuan](https://github.com/siyuan-note/siyuan) ★42209 - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. [TS, GNU Affero General Public License v3.0].
+- [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad for Linux with Markdown preview, real PDF export via Typst, OCR, and automatic version history. Built with Tauri 2 (Rust). Available on AUR. [Rust/TS, MIT].
 
 ### Kanban board (Trello alternatives)
 
