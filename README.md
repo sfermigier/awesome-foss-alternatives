@@ -270,6 +270,7 @@ This it not the first list of free / open source software. Here are some other l
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★2659 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
 - [Open-source alternatives](https://opensource.builders/)
 - [PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
+- [os-alt](https://code-rho-dun.vercel.app) - Directory of paid SaaS with strictly self-hostable open-source alternatives, listing setup-time score, monthly self-host cost estimate, and migration sketch per tool.
 
 
 ## Other lists
