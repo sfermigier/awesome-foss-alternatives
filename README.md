@@ -218,6 +218,8 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [hyperdx](https://github.com/hyperdxio/hyperdx) ★9404 - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. [TS, MIT License].
 - [signoz](https://github.com/signoz/signoz) ★26329 - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool. [TS, Other license].
 - [Sentry](https://github.com/getsentry/sentry) ★43468 - Developer-first error tracking and performance monitoring. [🐍, Other license].
+- [VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) ★1904 - Fast and easy to use database for logs, which can efficiently handle terabytes of logs. [Go, Apache License 2.0].
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ★17055 - Fast, cost-effective monitoring solution and time series database. [Go, Apache License 2.0].
 
 ## Software development
 
