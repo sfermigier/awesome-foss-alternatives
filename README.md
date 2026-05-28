@@ -266,6 +266,10 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Gerrit](https://github.com/GerritCodeReview/gerrit) ★1163 - Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit). [☕️, Apache License 2.0].
 - [Review Board](https://github.com/reviewboard/reviewboard) ★1698 - An extensible and friendly code review tool for projects and companies of all sizes. [🐍, MIT License].
 
+### AI Coding Orchestration (Devin / Factory AI alternatives)
+
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) ★106 - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints. Local-first desktop app. [C#, FSL-1.1-ALv2].
+
 
 
 ## Other lists of free / open source software
