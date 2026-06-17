@@ -105,6 +105,12 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5334 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
 - [EspoCRM](https://github.com/espocrm/espocrm) ★2846 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
 
+### Revenue Intelligence / Product-Led Sales (Pocus, Common Room alternatives)
+
+Tools that turn product-usage data into buying, expansion, and churn signals and route the warmest accounts to sales. Alternatives to proprietary PLG-signal platforms such as Pocus and Common Room.
+
+- [Beton Inspector](https://github.com/getbeton/inspector) ★30 - Open-source revenue intelligence that connects PostHog product usage to your CRM (Attio/HubSpot/Zoho/Pipedrive) and auto-detects buying, expansion, and churn signals. [TS, GNU Affero General Public License v3.0].
+
 ### Customer Feedback / Feature Voting (Canny alternatives)
 
 Platforms for collecting, organizing, and prioritizing customer feedback, feature requests, and ideas. These tools help product teams understand user needs and build better products.
