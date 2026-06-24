@@ -129,6 +129,7 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 
 - [Wordpress](https://github.com/WordPress/WordPress) ★20984 - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. [PHP, Other license].
 - [Ghost](https://github.com/TryGhost/Ghost) ★52242 - Independent technology for modern publishing, memberships, subscriptions and newsletters. [JS, MIT License].
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted CMS built on PHP 8.3 / Laravel 12 + React 19 + shadcn/ui. REST API v1, headless mode for Next.js/Astro/SvelteKit, outgoing webhooks. One-time pricing, no subscription. [PHP, Source-available]. [Website](https://unfoldcms.com)
 
 More:
 
