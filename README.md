@@ -76,7 +76,7 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 Self-hostable alternatives to Calendly and similar scheduling tools, letting individuals and teams share their availability and accept bookings without vendor lock-in.
 
-- [Tymeslot](https://github.com/Tymeslot/tymeslot) ★50 - Open-source meeting scheduling platform. Share your availability and let guests book time with you. [Elixir, Other license].
+- [Tymeslot](https://github.com/Tymeslot/tymeslot) ★123 - Open-source meeting scheduling platform. Share your availability and let guests book time with you. [Elixir, AGPL-3.0].
 
 
 ### Email (Gmail / Proton Mail alternatives)
