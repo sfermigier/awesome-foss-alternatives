@@ -121,6 +121,7 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 
 ### Applicant Tracking System
 
+- [Aural](https://github.com/1146345502/aural-oss) ★150 - Open-source, self-hostable AI interview platform for voice, chat, and video interviews. [TS, MIT License].
 - [FreeATS](https://github.com/freeats/freeats) ★43 - . [💎, MIT License].
 
 ## Web
