@@ -222,6 +222,10 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 - [Hook0](https://github.com/hook0/hook0) ★1406 - Open-source webhook server written in Rust that helps you provide webhooks to your users. [🦀, Server Side Public License v1].
 
+### Tunneling / Domain Routing (Cloudflare Tunnel, ngrok alternatives)
+
+- [NSL.SH](https://nsl.sh) ([Source](https://github.com/Yundera/mesh-router-root)) ★70 - Distributed domain routing for self-hosted services with automatic HTTPS, working behind NAT. Uses WireGuard and Caddy. [TS/Lua, MIT License].
+
 ### Logging (Loggly alternatives)
 
 - [Graylog](https://github.com/Graylog2/graylog2-server) ★7990 - Free and open log management. [☕️, Other license].
