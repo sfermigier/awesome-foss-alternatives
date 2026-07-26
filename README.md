@@ -86,6 +86,10 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 
 ## Business
 
+### Social media management (Buffer, Hootsuite alternatives)
+
+- [OpenPost](https://github.com/rodrgds/openpost) ★17 - Self-hosted social publishing tool for preparing, scheduling, and tracking posts across multiple networks. [Go, GNU Affero General Public License v3.0].
+
 ### Invoicing (FreshBooks / QuickBooks alternatives)
 
 - [Crater](https://github.com/crater-invoice/crater) ★8273 - Open Source Invoicing Solution for Individuals & Businesses. [PHP, GNU Affero General Public License v3.0].
