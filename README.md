@@ -153,6 +153,7 @@ More:
 - [Plausible](https://github.com/plausible/analytics) ★24491 - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. [💧, GNU Affero General Public License v3.0].
 - [Prisme Analytics](https://github.com/prismelabs/analytics) ★124 - 💎 An Open Source, privacy-focused and progressive analytics service. [Go, GNU Affero General Public License v3.0].
 - [Shynet](https://github.com/milesmcc/shynet) ★3131 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. [🐍, Apache License 2.0].
+- [Talivia](https://github.com/talivia-group/talivia) - Revenue-first web and product analytics with traffic attribution, funnels, events, session replay, Web Vitals, and payment integrations. Self-hosted and an open-source alternative to DataFast. [TS, MIT License].
 - [Umami](https://github.com/umami-software/umami) ★35907 - Umami is a simple, fast, privacy-focused alternative to Google Analytics. [TS, MIT License].
 
 ### Static website generator
