@@ -45,6 +45,7 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 - [MediaWiki](https://github.com/wikimedia/mediawiki) ★5020 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
 - [MoinMoin](https://github.com/moinwiki/moin) ★365 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★1227 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
+- [Persona](https://github.com/jayamitkatariya/personacli) ★1 - Local-first personal workspace with notes, tasks and AI chat, stored as plain Markdown files. [TS, MIT License].
 
 More:
 
