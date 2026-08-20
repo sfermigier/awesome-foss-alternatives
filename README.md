@@ -237,6 +237,10 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) ★1904 - Fast and easy to use database for logs, which can efficiently handle terabytes of logs. [Go, Apache License 2.0].
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ★17055 - Fast, cost-effective monitoring solution and time series database. [Go, Apache License 2.0].
 
+### Data pipeline / ETL (Fivetran, Airflow alternatives)
+
+- [Bruin](https://github.com/bruin-data/bruin) ★1669 - End-to-end data pipeline CLI: data ingestion, SQL and Python transformation, and data quality checks in one tool. [Go, Apache License 2.0].
+
 ## Software development
 
 ### Bug tracking (Jira alternatives):
