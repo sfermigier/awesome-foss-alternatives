@@ -1,5 +1,6 @@
 # Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use
 
+- [Persona](https://github.com/jayamitkatariya/personacli) ★ Local-first personal workspace: notes, tasks, and AI chat. All plain Markdown.
 FOSS not only plays a crucial role in enhancing learning and fostering innovation, while also promoting collaboration and building a strong community among both developers and users, it is also pivotal in delivering practical, user-friendly, and reliable solutions for both businesses and individuals.
 
 This guide, along with the resources listed at its conclusion, provides an extensive exploration of the alternatives available to businesses looking to leverage open-source solutions.
