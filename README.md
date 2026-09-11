@@ -212,6 +212,10 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Supabase](https://github.com/supabase/supabase) ★99847 - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. [TS, Apache License 2.0].
 - [Manifest](https://github.com/mnfst/manifest) ★4143 - 🦚 The 1-file backend. [TS, MIT License].
 
+### Transactional & marketing email (SendGrid, Mailgun, Resend, Postmark alternatives)
+
+- [MailySend](https://github.com/GagnDeep/mailysend) ★0 - Email platform with a Resend-compatible sending API, audiences and live segments, broadcasts, inbound mailboxes, webhooks and deliverability analytics, deployed into your own Cloudflare account or a plain Node server. [TS, MIT License].
+
 ### Push notifications (OneSignal alternatives)
 
 - [Apprise](https://github.com/caronc/apprise) ★16223 - Apprise - Push Notifications that work with just about every platform!. [🐍, BSD 2-Clause "Simplified" License].
