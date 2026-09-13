@@ -98,6 +98,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [ERP5](https://github.com/Nexedi/erp5) ★206 - ERP5 Open Source ERP/CRM/KM. (Mirror of https://lab.nexedi.com/nexedi/erp5 ; Please submit patches and issues there). [JS, Unknown license].
 - [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ★8276 - Free Open Source ERP CRM Accounting Invoicing Software | Node Js React. [JS, GNU Affero General Public License v3.0].
 - [Odoo](https://github.com/odoo/odoo) ★49816 - Odoo. Open Source Apps To Grow Your Business. [🐍, Other license].
+- [OpenBooks](https://github.com/braedonsaunders/openbooks) ★5 - Mid-market open-source accounting/ERP (multi-entity, job costing, approvals, audit trail). [TS, GNU Affero General Public License v3.0].
 
 ### CRM (Salesforce alternatives)
 
