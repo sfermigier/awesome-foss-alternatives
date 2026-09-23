@@ -241,6 +241,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### Bug tracking (Jira alternatives):
 
+- [Orbit](https://github.com/Noveum/orbit) ★47 - Free, realtime task manager with issues, projects, sprints, docs, files and a hosted OAuth MCP server. [TS, Apache License 2.0].
 - [Bugzilla](https://github.com/bugzilla/bugzilla) ★810 - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:. [Perl, Mozilla Public License 2.0].
 - [Plane](https://github.com/makeplane/plane) ★47112 - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. [TS, GNU Affero General Public License v3.0].
 - [Redmine](https://github.com/redmine/redmine) ★5920 - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp. [💎, Other license].
@@ -290,4 +291,3 @@ This it not the first list of free / open source software. Here are some other l
 ## Other lists
 
 * [IndieStack](https://indiestack.fly.dev/) - Directory of indie-built SaaS alternatives across 100+ categories.
-
