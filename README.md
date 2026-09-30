@@ -185,6 +185,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Coolify](https://github.com/coollabsio/coolify) ★52388 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
 - [Dokku](https://github.com/dokku/dokku) ★31924 - A docker-powered PaaS that helps you build and manage the lifecycle of applications. [Shell, MIT License].
 - [France Nuage](https://github.com/France-Nuage/plateforme) ★54 - Sovereign open-source cloud platform: managed hosting of open-source apps and S3-compatible storage. [TS, Server Side Public License v1].
+- [Peon](https://github.com/Peon-sh/Peon) ★97 - Open-source self-hostable Docker PaaS (Vercel/Heroku alternative) with project RBAC, audit logs, and MCP. [TS, MIT License].
 
 ### User authentication (Auth0 alternatives)
 
