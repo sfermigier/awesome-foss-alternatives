@@ -143,6 +143,7 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 
 - [Wordpress](https://github.com/WordPress/WordPress) ★20984 - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. [PHP, Other license].
 - [Ghost](https://github.com/TryGhost/Ghost) ★52242 - Independent technology for modern publishing, memberships, subscriptions and newsletters. [JS, MIT License].
+- [YunCMS](https://github.com/Yunsoft-Software/yuncms) ★0 - Self-hosted MySQL CMS and REST backend with a React Studio, RBAC, Files, extensions and optional MCP. [JS, MIT License]. Website: [Yunsoft](https://yunsoft.com).
 
 More:
 
