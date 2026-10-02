@@ -91,6 +91,13 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - **[Aster Mail](https://github.com/Aster-Privacy/Aster-Mail)** - "Quantum-safe end-to-end encrypted email. Alternative to Gmail, Proton Mail." [AGPL-3.0]
 
 
+## Productivity
+
+### Voice Dictation (Wispr Flow, superwhisper alternatives)
+
+- [AI Dictation](https://github.com/writingmate/aidictation) - Open-source speech-to-text and dictation app for macOS, Windows, iPhone, iPad, and Android, with offline recognition on supported devices and optional cloud transcription and cleanup. [Swift/Kotlin/C#, MIT License].
+
+
 ## Business
 
 ### Invoicing (FreshBooks / QuickBooks alternatives)
