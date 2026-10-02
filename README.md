@@ -48,7 +48,7 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 - [AFFiNE](https://github.com/toeverything/AFFiNE) ★66733 - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. [TS, Other license].
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ★68870 - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. [Dart, GNU Affero General Public License v3.0].
 - [BookStack](https://github.com/BookStackApp/BookStack) ★18539 - A platform to create documentation/wiki content built with PHP & Laravel. [PHP, MIT License].
-- [MediaWiki](https://github.com/wikimedia/mediawiki) ★5020 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
+- [MediaWiki](https://github.com/wikimedia/mediawiki) ★5020 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
 - [MoinMoin](https://github.com/moinwiki/moin) ★365 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★1227 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
 
@@ -97,6 +97,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 
 - [Crater](https://github.com/crater-invoice/crater) ★8273 - Open Source Invoicing Solution for Individuals & Businesses. [PHP, GNU Affero General Public License v3.0].
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ★9618 - A source-available invoice, quote, project and time-tracking app built with Laravel. [PHP, Other license].
+- [OpenLMNP](https://github.com/manganate006/openlmnp) ★0 - Open-source accounting software for French LMNP (furnished rental) tax reporting: depreciation schedules, FEC export, tax return generation. [PHP, AGPL-3.0].
 - [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) ★870 - Simple and elegant invoicing solution. [PHP, MIT License].
 
 ### Point of Sale (Square POS / Clover alternatives)
@@ -172,7 +173,7 @@ More:
 ### Static website generator
 
 - [11ty](https://github.com/11ty/eleventy) ★19530 - A simpler site generator. Transforms a directory of templates (of varying types) into HTML. [JS, MIT License].
-- [Hugo](https://github.com/gohugoio/hugo) ★87346 - The world’s fastest framework for building websites. [Go, Apache License 2.0].
+- [Hugo](https://github.com/gohugoio/hugo) ★87346 - The world's fastest framework for building websites. [Go, Apache License 2.0].
 - [Jekyll](https://github.com/jekyll/jekyll) ★51468 - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby. [💎, MIT License].
 - [Lektor](https://github.com/lektor/lektor) ★3926 - The lektor static file content management system. [🐍, BSD 3-Clause "New" or "Revised" License].
 - [Pelican](https://github.com/getpelican/pelican) ★13262 - Static site generator that supports Markdown and reST syntax. Powered by Python. [🐍, GNU Affero General Public License v3.0].
