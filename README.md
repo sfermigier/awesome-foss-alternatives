@@ -189,6 +189,7 @@ More:
 These tools provide a ready-made foundation for building SaaS applications, offering built-in authentication, billing, user management, and other common SaaS features out of the box. They serve as alternatives to proprietary boilerplates like ShipFast, Supastarter, and SaaS Pegasus.
 
 - [LastSaaS](https://github.com/jonradoff/lastsaas) ★70 - Open-source SaaS platform and boilerplate with built-in authentication, Stripe billing, user management, and admin dashboard. [Go, MIT License].
+- [SaaS Starter Lite](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, Docker, and Terraform. [TS, MIT License].
 
 ## Platforms services and devops
 
