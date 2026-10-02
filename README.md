@@ -125,6 +125,10 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 
 - [Quackback](https://github.com/QuackbackIO/quackback) ★33 - Open-source customer feedback platform with public boards, roadmaps, and changelogs. [TS, GNU Affero General Public License v3.0].
 
+### PDF editing (Adobe Acrobat alternatives)
+
+- [OffPDF](https://github.com/McanKul/offpdf) - Offline desktop PDF toolkit with 23 tools for editing, converting, organizing, OCR, and related document tasks. Files stay on the device. [Rust/TS, MIT].
+
 ### Document Management / ECM (Documentum alternatives)
 
 - [Alfresco](https://github.com/Alfresco/alfresco-content-app) ★200 - Alfresco Content Application. [TS, GNU Lesser General Public License v3.0].
