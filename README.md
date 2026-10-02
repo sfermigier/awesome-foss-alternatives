@@ -211,7 +211,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### Platform as a Service / PaaS (Heroku, Fly, Render... alternatives):
 
-- [Abilian Hop3](https://github.com/abilian/hop3) ★12 - Hop3 - Open source platform as a service: deploy and manage your applications seamlessly. [🐍, Other license].
+- [Abilian Hop3](https://github.com/abilian/hop3) ★16 - Hop3 - Open source platform as a service: deploy and manage your applications seamlessly. [🐍, Other license].
 - [Abilian Nua](https://github.com/abilian/nua) ★39 - Open source PaaS and application marketplace. [🐍, GNU Affero General Public License v3.0].
 - [CapRover](https://github.com/caprover/caprover) ★14941 - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids. [TS, Other license].
 - [Coolify](https://github.com/coollabsio/coolify) ★52388 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
