@@ -109,6 +109,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [Open Source POS](https://github.com/opensourcepos/opensourcepos) ★4371 - Web-based point of sale software for stores, with inventory, reporting and CodeIgniter/MySQL deployment. [PHP, Other license].
 - [NexoPOS](https://github.com/Blair2004/NexoPOS) ★1249 - Laravel-based POS system with Vue.js, Tailwind CSS, inventory management, sales processing, customer records, reports and modular extensions. [PHP, GNU General Public License v3.0].
 - [Posnic POS](https://github.com/Posnic/POS) ★3 - Offline-first open source POS and billing software for retail shops and restaurants, with desktop packages, self-hosted setup and optional cloud services. Website: <https://www.posnic.com/>. [JS, GNU Affero General Public License v3.0].
+- [ioe](https://github.com/zhtyyx/ioe) ★1468 - Self-hosted retail store management with product records, stock movements, sales checkout, and member accounts. [🐍, MIT License].
 
 ### ERP (SAP Alternatives)
 
