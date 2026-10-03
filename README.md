@@ -79,6 +79,7 @@ The way we organize and manage our tasks has a significant impact on productivit
 - [WeKan](https://github.com/wekan/wekan) ★20892 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. [JS, MIT License].
 - [Super Productivity](https://github.com/johannesjo/super-productivity) ★18247 - Advanced todo list app with integrated timeboxing, time tracking, and Jira/GitHub/GitLab integration. [TS, MIT License].
 - [MonoMap](https://github.com/tehnika-mk/monomap) - Keyboard-first, local-first mind map and kanban board web app that runs entirely in the browser. [TypeScript, MIT License].
+- [Tale](https://github.com/tale-project/tale) - Self-hostable project workspace with Kanban task boards, shared files, and deliverable review for teams and AI agents. [TS, MIT License].
 
 ### Scheduling / Appointment Booking (Calendly alternatives)
 
