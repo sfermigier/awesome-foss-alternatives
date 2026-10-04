@@ -103,6 +103,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [Crater](https://github.com/crater-invoice/crater) ★8273 - Open Source Invoicing Solution for Individuals & Businesses. [PHP, GNU Affero General Public License v3.0].
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ★9618 - A source-available invoice, quote, project and time-tracking app built with Laravel. [PHP, Other license].
 - [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) ★870 - Simple and elegant invoicing solution. [PHP, MIT License].
+- [BusinessOS](https://businessos.biz/) - Offline-first business management PWA with invoicing, expenses, cash flow, customers, projects, reports, stock management, voice-to-invoice, multi-currency and Arabic/RTL support. No signup required, 256-bit encrypted optional cloud sync. [TS, Free during limited early access].
 
 ### Point of Sale (Square POS / Clover alternatives)
 
