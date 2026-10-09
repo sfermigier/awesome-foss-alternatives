@@ -175,6 +175,11 @@ More:
 ### Website builder (Webflow, Wix, Squarespace alternatives)
 
 - [Silex](https://github.com/silexlabs/Silex) ★2741 - Free/libre, online tool for visually creating static sites with dynamic data. No vendor lock-in, self-hosted, desktop version available. [TS, GNU Affero General Public License v3.0].
+
+### Link-in-bio pages (Linktree alternatives)
+
+- [Open Bio Page](https://github.com/open-bio-page/open-bio-page) - White-label link-in-bio pages for a family or a company, prerendered as a static site on GitHub Pages, with a scoped admin API on serverless functions. [TS, MIT License].
+
 ### A/B Testing & Personalization (Google Optimize, Optimizely alternatives)
 
 - [ExperimentFlow](https://experimentflow.com) - A/B testing and AI personalisation platform for optimizing web experiences and conversion rates.
