@@ -306,6 +306,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### Code review (Github alternatives)
 
+- [CodeOtter](https://github.com/dharmeshgurnani/CodeOtter) ★3 - Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea (CodeRabbit alternative) that scores PRs, enforces merge gates and posts inline fixes, using local GGUF models or your own API key. [JS, GNU Affero General Public License v3.0].
 - [Gerrit](https://github.com/GerritCodeReview/gerrit) ★1163 - Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit). [☕️, Apache License 2.0].
 - [Review Board](https://github.com/reviewboard/reviewboard) ★1698 - An extensible and friendly code review tool for projects and companies of all sizes. [🐍, MIT License].
 
