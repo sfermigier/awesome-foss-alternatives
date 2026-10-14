@@ -131,6 +131,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 Tools that turn product-usage data into buying, expansion, and churn signals and route the warmest accounts to sales. Alternatives to proprietary PLG-signal platforms such as Pocus and Common Room.
 
 - [Beton Inspector](https://github.com/getbeton/inspector) ★30 - Open-source revenue intelligence that connects PostHog product usage to your CRM (Attio/HubSpot/Zoho/Pipedrive) and auto-detects buying, expansion, and churn signals. [TS, GNU Affero General Public License v3.0].
+- [looot-intent](https://github.com/loootai/looot-intent) ★0 - Account intent and buying-stage scoring: a 0 to 100 score per company domain, with the signals, the provider behind each one and the cost of each call listed. Demo mode runs on sample data with no key; live runs need a looot API key (paid, pay per call). Alternative to 6sense. [TS, MIT License].
 
 ### Customer Feedback / Feature Voting (Canny alternatives)
 
