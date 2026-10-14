@@ -49,6 +49,7 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ★68870 - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. [Dart, GNU Affero General Public License v3.0].
 - [BookStack](https://github.com/BookStackApp/BookStack) ★18539 - A platform to create documentation/wiki content built with PHP & Laravel. [PHP, MIT License].
 - [Dexio](https://github.com/dexio-wiki/dexio) ★2 - One wiki for all your AI agents. Claude, ChatGPT, Codex, Cursor, Hermes and OpenClaw read and write the same markdown pages over MCP, and people see what they know as a page graph with every change kept. Self-host it with Docker or use the hosted version at dexio.wiki. [🐍, GNU Affero General Public License v3.0].
+- [Folio Wiki](https://github.com/evergreen-it-dev/folio) ★66 - Self-hosted team wiki where every page is a Markdown file in a Git repository, with a built-in MCP server and an AI assistant. [TS, MIT License].
 - [MediaWiki](https://github.com/wikimedia/mediawiki) ★5020 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
 - [MoinMoin](https://github.com/moinwiki/moin) ★365 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★1227 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
@@ -131,6 +132,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 Tools that turn product-usage data into buying, expansion, and churn signals and route the warmest accounts to sales. Alternatives to proprietary PLG-signal platforms such as Pocus and Common Room.
 
 - [Beton Inspector](https://github.com/getbeton/inspector) ★30 - Open-source revenue intelligence that connects PostHog product usage to your CRM (Attio/HubSpot/Zoho/Pipedrive) and auto-detects buying, expansion, and churn signals. [TS, GNU Affero General Public License v3.0].
+- [looot-intent](https://github.com/loootai/looot-intent) ★0 - Account intent and buying-stage scoring: a 0 to 100 score per company domain, with the signals, the provider behind each one and the cost of each call listed. Demo mode runs on sample data with no key; live runs need a looot API key (paid, pay per call). Alternative to 6sense. [TS, MIT License].
 
 ### Customer Feedback / Feature Voting (Canny alternatives)
 
@@ -271,6 +273,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [hyperdx](https://github.com/hyperdxio/hyperdx) ★9404 - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. [TS, MIT License].
 - [signoz](https://github.com/signoz/signoz) ★26329 - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool. [TS, Other license].
 - [Sentry](https://github.com/getsentry/sentry) ★43468 - Developer-first error tracking and performance monitoring. [🐍, Other license].
+- [SolidPing](https://github.com/fclairamb/solidping) ★12 - Uptime and synthetic monitoring (HTTP, TCP, ICMP, DNS, TLS, databases, cron heartbeats, browser checks) with status pages, incidents and on-call escalation. An alternative to Pingdom, UptimeRobot and Datadog Synthetics. [Go, GNU Affero General Public License v3.0].
 - [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) ★32 - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts. [TS, MIT License].
 - [KubeStellar Console](https://github.com/kubestellar/console) ★66 - Multi-cluster Kubernetes dashboard with real-time observability, compliance monitoring, and AI-powered operations across edge and cloud clusters. CNCF project. [Go/TS, Apache License 2.0].
 - [VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) ★1904 - Fast and easy to use database for logs, which can efficiently handle terabytes of logs. [Go, Apache License 2.0].
