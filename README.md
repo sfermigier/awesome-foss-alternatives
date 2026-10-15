@@ -157,6 +157,11 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 - [Aural](https://github.com/1146345502/aural-oss) ★150 - Open-source, self-hostable AI interview platform for voice, chat, and video interviews. [TS, MIT License].
 - [FreeATS](https://github.com/freeats/freeats) ★43 - . [💎, MIT License].
 
+
+### Freelance Marketplace (Upwork, Fiverr alternatives)
+
+- [Hyrde](https://github.com/AlfawakhryDev/hyrde) - AI-native freelance marketplace: a client describes an outcome and gets matched to an interview-vetted specialist, with no bidding. [TypeScript, AGPL-3.0 License].
+
 ## Web
 
 ### Web CMS and Blog Engines
