@@ -313,6 +313,12 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Gerrit](https://github.com/GerritCodeReview/gerrit) ★1163 - Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit). [☕️, Apache License 2.0].
 - [Review Board](https://github.com/reviewboard/reviewboard) ★1698 - An extensible and friendly code review tool for projects and companies of all sizes. [🐍, MIT License].
 
+### Database clients (DataGrip, TablePlus, Navicat alternatives)
+
+Desktop tools for connecting to, querying, and managing SQL and NoSQL databases, as open alternatives to proprietary database clients.
+
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database manager for PostgreSQL, MySQL, SQLite, SQL Server, Redis and more, on Windows, macOS and Linux. [TS, GPL-3.0 Community Edition; paid tiers under a commercial license].
+
 
 
 ## Other lists of free / open source software
