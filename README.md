@@ -100,6 +100,12 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 
 - [OpenPost](https://github.com/rodrgds/openpost) ★17 - Self-hosted social publishing tool for preparing, scheduling, and tracking posts across multiple networks. [Go, GNU Affero General Public License v3.0].
 
+### SEO & content marketing (Surfer, Jasper, Frase alternatives)
+
+Tools that research what a site's audience searches for and help plan and draft search content. Alternatives to proprietary SEO content platforms such as Surfer, Jasper and Frase.
+
+- [AltoRank](https://github.com/AltoRank/altorank) ★2 - Self-hostable SEO content software: site readiness checks for search and AI crawlers, keyword research, and drafts in your site's voice with sources; every publish is attributed to a named person. [TS, GNU Affero General Public License v3.0].
+
 ### Invoicing (FreshBooks / QuickBooks alternatives)
 
 - [Crater](https://github.com/crater-invoice/crater) ★8273 - Open Source Invoicing Solution for Individuals & Businesses. [PHP, GNU Affero General Public License v3.0].
