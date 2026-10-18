@@ -283,6 +283,10 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 - [Bruin](https://github.com/bruin-data/bruin) ★1669 - End-to-end data pipeline CLI: data ingestion, SQL and Python transformation, and data quality checks in one tool. [Go, Apache License 2.0].
 
+### Health and wearable data APIs (Terra API alternatives)
+
+- [Open Health Sync](https://github.com/soma-intelligence/open-health-sync) ★7 - Self-hosted API for wearable and health data: syncs Apple Health, Health Connect, Oura, WHOOP, Withings and 8 other sources into Postgres and serves them over REST, FHIR R4, Open mHealth, webhooks and a read-only MCP server. [Go, GNU Affero General Public License v3.0].
+
 ## Software development
 
 ### Bug tracking (Jira alternatives):
