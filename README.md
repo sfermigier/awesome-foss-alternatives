@@ -144,6 +144,8 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 
 - [OffPDF](https://github.com/McanKul/offpdf) - Offline desktop PDF toolkit with 23 tools for editing, converting, organizing, OCR, and related document tasks. Files stay on the device. [Rust/TS, MIT].
 
+- [Stayput](https://github.com/keenanlk/stayput) - Browser-based toolkit with PDF tools (merge, split, compress, sign, protect, unlock, page numbers) plus image, video and audio tools. Everything runs in the tab, so files are not uploaded; it needs no account and works offline after the first visit. Website: <https://stayput.dev>. [TS, MIT].
+
 ### Document Management / ECM (Documentum alternatives)
 
 - [Alfresco](https://github.com/Alfresco/alfresco-content-app) ★200 - Alfresco Content Application. [TS, GNU Lesser General Public License v3.0].
