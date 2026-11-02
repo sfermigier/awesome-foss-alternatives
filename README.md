@@ -299,6 +299,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Gitea](https://github.com/go-gitea/gitea) ★54595 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. [Go, MIT License].
 - [Gitlab](https://github.com/gitlabhq/gitlabhq) ★24285 - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com. [💎, Other license].
 - [Gogs](https://github.com/gogs/gogs) ★47578 - Gogs is a painless self-hosted Git service. [Go, MIT License].
+- [Iris Git](https://git.iris.to/about.html) - Git hosting and collaboration over Nostr and Hashtree, with a browser interface and `htree://` Git remotes. [TypeScript, MIT License]. ([Source code](https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/iris-git)).
 - [Pagure](https://github.com/Pagure/pagure) ★223 - pagure is a light-weight git-centered forge based on pygit2. (MIRROR). [🐍, GNU General Public License v2.0].
 - [Sourcehut](https://sourcehut.org/) - This suite of open source tools is the software development platform you've been waiting for.
 
