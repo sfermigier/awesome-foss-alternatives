@@ -254,6 +254,11 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Novu](https://github.com/novuhq/novu) ★38746 - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations. [TS, Other license].
 - [ntfy](https://github.com/binwiederhier/ntfy) ★29491 - Send push notifications to your phone or desktop using PUT/POST. [Go, Apache License 2.0].
 
+### Mobile app live updates (Ionic Appflow, CodePush alternatives)
+
+- [Capgo](https://github.com/Cap-go/capgo) ★212 - Console, Backend and CLI to manage Capgo Instant update and Native build for Capacitor apps. [TS, GNU Affero General Public License v3.0].
+- [OtaKit](https://github.com/OtaKit/otakit) ★48 - Push updates directly to your Capacitor app without app store reviews. [TS, MIT License].
+
 ### Webhooks notifications (Svix, HostedHooks alternatives)
 
 - [Hook0](https://github.com/hook0/hook0) ★1406 - Open-source webhook server written in Rust that helps you provide webhooks to your users. [🦀, Server Side Public License v1].
