@@ -328,6 +328,9 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Gerrit](https://github.com/GerritCodeReview/gerrit) ★1163 - Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit). [☕️, Apache License 2.0].
 - [Review Board](https://github.com/reviewboard/reviewboard) ★1698 - An extensible and friendly code review tool for projects and companies of all sizes. [🐍, MIT License].
 
+### AI coding agents (Devin, GitHub Copilot coding agent alternatives)
+
+- [Orbi](https://github.com/orbi-build/orbi) ★229 - Turns labeled GitHub Issues into pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging. [🐍, GNU Affero General Public License v3.0].
 
 
 ## Other lists of free / open source software
