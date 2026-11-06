@@ -320,6 +320,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Buildbot](https://github.com/buildbot/buildbot) ★5441 - Python-based continuous integration testing framework; your pull requests are more than welcome!. [🐍, GNU General Public License v2.0].
 - [Drone](https://github.com/harness/drone) ★34191 - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. [Go, Apache License 2.0].
 - [Jenkins](https://github.com/jenkinsci/jenkins) ★25144 - Jenkins automation server. [☕️, MIT License].
+- [SuperCI](https://github.com/supercorp-ai/superci) ★13 - GitHub Actions on the cheapest AWS spot machines, in your own account, at AWS's price with nothing added: $0.0008 a minute for 2 vCPU. One command; no servers or Kubernetes. [🦀, MIT License].
 
 ### Code review (Github alternatives)
 
