@@ -26,6 +26,12 @@ These platforms, providing alternatives to widely-used services like Slack and D
 - [Spacebar](https://github.com/spacebarchat/spacebarchat) ★6617 - 📬 Spacebar is a free open source selfhostable discord compatible communication platform. [GNU Affero General Public License v3.0].
 - [Zulip](https://github.com/zulip/zulip) ★24959 - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. [🐍, Apache License 2.0].
 
+### Private Messaging (Signal, WhatsApp, Telegram alternatives)
+
+Private messengers for direct and group conversations.
+
+- [Iris Chat](https://github.com/irislib/iris-chat-rs) ★2 - End-to-end encrypted Nostr messenger with native apps and a command-line client, without phone-number or email registration. [Rust, MIT License].
+
 ### Video Conferencing (Zoom, Webex, Google Meet, Skype... alternatives)
 
 The modern workplace often spans cities, countries, and even continents, making effective virtual communication tools essential. These alternatives to popular services such as Zoom, Webex, Google Meet, Skype, etc., offer features like video and audio calls, screen sharing, virtual meetings, and webinars.
