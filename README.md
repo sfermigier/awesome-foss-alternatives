@@ -149,6 +149,7 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 ### PDF editing (Adobe Acrobat alternatives)
 
 - [OffPDF](https://github.com/McanKul/offpdf) - Offline desktop PDF toolkit with 23 tools for editing, converting, organizing, OCR, and related document tasks. Files stay on the device. [Rust/TS, MIT].
+- [Inkvolt PDF](https://github.com/gabandres/inkvolt) - Windows and Mac PDF editor: fill and sign forms, edit text, annotate, redact, OCR and organize pages, with no account or telemetry. [C#, GNU Affero General Public License v3.0].
 
 ### Document Management / ECM (Documentum alternatives)
 
