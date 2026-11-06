@@ -71,6 +71,7 @@ More:
 These tools are designed to help individuals maintain control over their personal knowledge sphere. These platforms, offering an alternative to the popular Evernote service, enable users to record thoughts, capture information from various sources, and organize these snippets of knowledge in a way that best suits their unique cognitive and workflow preferences.
 
 - [Joplin](https://github.com/laurent22/joplin) ★54146 - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. [TS, Other license].
+- [Koru](https://github.com/koruworks/mono) - Local-first, open-source workspace for notes, docs and files, built in Rust. No account required. Imports from Evernote, Notion, OneNote, Google Docs and Markdown. Runs on Windows and macOS. Website: <https://www.koru.do>. [Rust, Mozilla Public License 2.0].
 - [Logseq](https://github.com/logseq/logseq) ★41758 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap. [Clojure, GNU Affero General Public License v3.0].
 - [NoteGen](https://github.com/codexu/note-gen) ★12406 - A local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI. [TS/Rust, GNU General Public License v3.0].
 - [Notesnook](https://github.com/streetwriters/notesnook) ★13872 - A fully open source & end-to-end encrypted note taking alternative to Evernote. [TS, GNU General Public License v3.0].
