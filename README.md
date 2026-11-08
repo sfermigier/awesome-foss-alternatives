@@ -168,6 +168,10 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 - [Aural](https://github.com/1146345502/aural-oss) ★150 - Open-source, self-hostable AI interview platform for voice, chat, and video interviews. [TS, MIT License].
 - [FreeATS](https://github.com/freeats/freeats) ★43 - . [💎, MIT License].
 
+### AI agents / Autonomous AI agency (Lindy, Zapier, Relevance AI alternatives)
+
+- [Extremely Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) - Extremely Autonomous Agents is a free, open-source AI agency that runs on your own computer. Agents for sales, marketing, support and more work around the clock, build the tools they're missing and only ask you when you choose. Bring your own Claude, ChatGPT or local models. Website: <https://extremely.agency>. [TS, GNU Affero General Public License v3.0].
+
 ## Web
 
 ### Web CMS and Blog Engines
