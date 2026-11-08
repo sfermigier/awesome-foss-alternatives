@@ -126,7 +126,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5334 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
 - [EspoCRM](https://github.com/espocrm/espocrm) ★2846 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
 - [Warpdrive](https://github.com/sneg55/warpdrive) ★2 - Self-hosted CRM for business development: sales pipeline, deal workspace, contacts, and two-way Gmail sync. Alternative to Pipedrive. [TS, MIT License].
-- [Relaticle](https://github.com/relaticle/relaticle) ★1799 - Open-source CRM with a built-in AI assistant and an MCP server for Claude and ChatGPT. Self-host with Docker or use the cloud. Alternative to HubSpot and Attio. [PHP, GNU Affero General Public License v3.0].
+- [Relaticle](https://github.com/relaticle/relaticle) ★1821 - Open-source CRM with a built-in AI assistant and an MCP server for AI agents. Self-host with Docker. Alternative to HubSpot and Attio. [PHP, GNU Affero General Public License v3.0].
 
 ### Revenue Intelligence / Product-Led Sales (Pocus, Common Room alternatives)
 
