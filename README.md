@@ -155,6 +155,7 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 - [Inkvolt PDF](https://github.com/gabandres/inkvolt) - Windows and Mac PDF editor: fill and sign forms, edit text, annotate, redact, OCR and organize pages, with no account or telemetry. [C#, GNU Affero General Public License v3.0].
 
 - [Stayput](https://github.com/keenanlk/stayput) - Browser-based toolkit with PDF tools (merge, split, compress, sign, protect, unlock, page numbers) plus image, video and audio tools. Everything runs in the tab, so files are not uploaded; it needs no account and works offline after the first visit. Website: <https://stayput.dev>. [TS, MIT].
+- [Nyxiontech PDF Tools](https://github.com/jurecki007/nyxiontech-tools) - Browser-based PDF and image toolkit: merge, split, compress, sign, fill forms, redact, convert, and OCR in English and Polish. Everything runs in the tab, so files are not uploaded, and it needs no account. A Windows desktop build runs the same tools without a network. Website: <https://tools.nyxiontech.com>. [TS, GNU Affero General Public License v3.0].
 
 ### Document Management / ECM (Documentum alternatives)
 
