@@ -46,6 +46,7 @@ The modern workplace often spans cities, countries, and even continents, making 
 Self-hosted tools that record meetings, produce transcripts and summaries, and keep the original recording.
 
 - [Botik](https://github.com/777genius/discord-meeting-assistant) ★3 - Self-hosted Discord meeting assistant that records voice calls, posts transcripts and summaries, and answers questions about the meeting. [TS, Apache License 2.0].
+- [Meeting Recorder](https://github.com/mrmartin/meeting-recorder) ★1 - Linux desktop app that records both sides of any online meeting without a bot joining the call, and transcribes it locally with Whisper. [🐍, MIT License].
 
 ### Knowledge Bases (Notion alternatives)
 
