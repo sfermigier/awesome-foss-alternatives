@@ -222,6 +222,12 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 - [LastSaaS](https://github.com/jonradoff/lastsaas) ★70 - Open-source SaaS platform and boilerplate with built-in authentication, Stripe billing, user management, and admin dashboard. [Go, MIT License].
 
+### Mobility & Public Transit (Moovit, Citymapper alternatives)
+
+Open-source and privacy-focused transit planning and schedule lookup applications.
+
+- [Stopwatch Transit](https://github.com/shivrajsinhzala/transit-timetables) - Free bus, tram, train and ferry timetables for 120+ networks in 6 countries, built from open GTFS data with offline PWA support. Website: <https://transit.shivrajsinh.in>. [JS, MIT License].
+
 ## Platforms services and devops
 
 ### Platform as a Service / PaaS (Heroku, Fly, Render... alternatives):
