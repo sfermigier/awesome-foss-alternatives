@@ -335,6 +335,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### AI coding agents (Devin, GitHub Copilot coding agent alternatives)
 
+- [Kodama](https://github.com/optimiware/kodama) ★1 - API-first, multi-tenant software factory that runs containerized coding agents and pipelines with role-inbox human approvals, OIDC RBAC, a model gateway, and gitolite-style Git access rules. [Go, Apache License 2.0].
 - [Orbi](https://github.com/orbi-build/orbi) ★229 - Turns labeled GitHub Issues into pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging. [🐍, GNU Affero General Public License v3.0].
 
 
