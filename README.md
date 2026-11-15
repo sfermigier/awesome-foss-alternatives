@@ -306,14 +306,6 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ## Software development
 
-### Bug tracking (Jira alternatives):
-
-- [Orbit](https://github.com/Noveum/orbit) ★47 - Free, realtime task manager with issues, projects, sprints, docs, files and a hosted OAuth MCP server. [TS, Apache License 2.0].
-- [Bugzilla](https://github.com/bugzilla/bugzilla) ★810 - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:. [Perl, Mozilla Public License 2.0].
-- [Plane](https://github.com/makeplane/plane) ★47112 - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. [TS, GNU Affero General Public License v3.0].
-- [Redmine](https://github.com/redmine/redmine) ★5920 - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp. [💎, Other license].
-- [Taiga](https://github.com/taigaio/taiga) ★554 - Taiga is a free and open-source project management for cross-functional agile teams. [🐍, Mozilla Public License 2.0].
-
 ### Code hosting & collaboration (Github alternatives)
 
 - [Forgejo](https://codeberg.org/forgejo/forgejo) ★2200 - Forgejo is a self-hosted lightweight software forge maintained by an inclusive community under the umbrella of Codeberg e.V., a registered non-profit association based in Berlin, Germany. [Go, GNU General Public License v3.0].
@@ -322,7 +314,14 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Gogs](https://github.com/gogs/gogs) ★47578 - Gogs is a painless self-hosted Git service. [Go, MIT License].
 - [Iris Git](https://git.iris.to/about.html) - Git hosting and collaboration over Nostr and Hashtree, with a browser interface and `htree://` Git remotes. [TypeScript, MIT License]. ([Source code](https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/iris-git)).
 - [Pagure](https://github.com/Pagure/pagure) ★223 - pagure is a light-weight git-centered forge based on pygit2. (MIRROR). [🐍, GNU General Public License v2.0].
-- [Sourcehut](https://sourcehut.org/) - This suite of open source tools is the software development platform you've been waiting for.
+
+### Bug tracking (Jira alternatives):
+
+- [Orbit](https://github.com/Noveum/orbit) ★47 - Free, realtime task manager with issues, projects, sprints, docs, files and a hosted OAuth MCP server. [TS, Apache License 2.0].
+- [Bugzilla](https://github.com/bugzilla/bugzilla) ★810 - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:. [Perl, Mozilla Public License 2.0].
+- [Plane](https://github.com/makeplane/plane) ★47112 - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. [TS, GNU Affero General Public License v3.0].
+- [Redmine](https://github.com/redmine/redmine) ★5920 - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp. [💎, Other license].
+- [Taiga](https://github.com/taigaio/taiga) ★554 - Taiga is a free and open-source project management for cross-functional agile teams. [🐍, Mozilla Public License 2.0].
 
 ### Continuous integration (CircleCI alternatives)
 
@@ -360,7 +359,3 @@ This it not the first list of free / open source software. Here are some other l
 - [PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
 - [os-alt](https://code-rho-dun.vercel.app) - Directory of paid SaaS with strictly self-hostable open-source alternatives, listing setup-time score, monthly self-host cost estimate, and migration sketch per tool.
 
-
-## Other lists
-
-* [IndieStack](https://indiestack.fly.dev/) - Directory of indie-built SaaS alternatives across 100+ categories.
