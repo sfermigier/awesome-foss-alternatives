@@ -46,6 +46,7 @@ The modern workplace often spans cities, countries, and even continents, making 
 Self-hosted tools that record meetings, produce transcripts and summaries, and keep the original recording.
 
 - [Botik](https://github.com/777genius/discord-meeting-assistant) ★3 - Self-hosted Discord meeting assistant that records voice calls, posts transcripts and summaries, and answers questions about the meeting. [TS, Apache License 2.0].
+- [Escriba](https://github.com/AlvaroGarrido10/escriba) ★0 - Chrome extension that records meetings in the browser (tab audio and microphone), transcribes them with your own Gemini API key and writes minutes. No server of its own. [JS, MIT License].
 
 ### Knowledge Bases (Notion alternatives)
 
