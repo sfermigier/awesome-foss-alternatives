@@ -306,6 +306,7 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 ### Data pipeline / ETL (Fivetran, Airflow alternatives)
 
 - [Bruin](https://github.com/bruin-data/bruin) ★1813 - End-to-end data pipeline CLI: data ingestion, SQL and Python transformation, and data quality checks in one tool. [Go, Apache License 2.0].
+- [OLake](https://github.com/datazip-inc/olake-go) ★1800 - Open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet, with full loads and CDC. [Go, Apache License 2.0].
 
 ## Software development
 
