@@ -23,11 +23,11 @@ This is a work in progress. Please contribute!
 These platforms, providing alternatives to widely-used services like Slack and Discord, offer features ranging from real-time messaging and file sharing, to video conferencing and task management.
 
 - [Element](https://github.com/vector-im/element-web) ★13664 - A glossy Matrix collaboration client for the web. [TS, GNU Affero General Public License v3.0].
-- [Mattermost](https://github.com/mattermost/mattermost-server) ★39635 - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. [TS, Other license].
+- [Mattermost](https://github.com/mattermost/mattermost-server) ★39646 - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. [TS, Other license].
 - [RelatedChat](https://github.com/relatedcode/Messenger) ★4763 - Messenger. [Swift, Unknown license].
-- [Rocket.chat](https://github.com/RocketChat/Rocket.Chat) ★46630 - The communications platform that puts data protection first. [TS, Other license].
-- [Spacebar](https://github.com/spacebarchat/spacebarchat) ★6728 - 📬 Spacebar is a free open source selfhostable discord compatible communication platform. [GNU Affero General Public License v3.0].
-- [Zulip](https://github.com/zulip/zulip) ★26244 - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. [🐍, Apache License 2.0].
+- [Rocket.chat](https://github.com/RocketChat/Rocket.Chat) ★46517 - The communications platform that puts data protection first. [TS, Other license].
+- [Spacebar](https://github.com/spacebarchat/spacebarchat) ★6731 - 📬 Spacebar is a free open source selfhostable discord compatible communication platform. [GNU Affero General Public License v3.0].
+- [Zulip](https://github.com/zulip/zulip) ★26250 - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. [🐍, Apache License 2.0].
 
 ### Private Messaging (Signal, WhatsApp, Telegram alternatives)
 
@@ -39,10 +39,10 @@ Private messengers for direct and group conversations.
 
 The modern workplace often spans cities, countries, and even continents, making effective virtual communication tools essential. These alternatives to popular services such as Zoom, Webex, Google Meet, Skype, etc., offer features like video and audio calls, screen sharing, virtual meetings, and webinars.
 
-- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) ★9281 - Complete open source web conferencing system. [JS, GNU Lesser General Public License v3.0].
-- [Element Call](https://github.com/vector-im/element-call) ★1026 - Group calls powered by Matrix. [TS, GNU Affero General Public License v3.0].
-- [Galene](https://github.com/jech/galene) ★1435 - The Galène videoconference server. [Go, MIT License].
-- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★30249 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. [TS, Apache License 2.0].
+- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) ★9284 - Complete open source web conferencing system. [JS, GNU Lesser General Public License v3.0].
+- [Element Call](https://github.com/vector-im/element-call) ★1028 - Group calls powered by Matrix. [TS, GNU Affero General Public License v3.0].
+- [Galene](https://github.com/jech/galene) ★1438 - The Galène videoconference server. [Go, MIT License].
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ★30253 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. [TS, Apache License 2.0].
 
 ### Meeting Notes (Otter, Fireflies, Fathom alternatives)
 
@@ -56,13 +56,13 @@ Self-hosted tools that record meetings, produce transcripts and summaries, and k
 
 Knowledge is the cornerstone of any successful organization, and managing it effectively is crucial. This category focuses on platforms that provide a means for businesses and individuals to store, organize, and share information effectively. These alternatives to Notion - a popular collaboration platform - offer users a versatile and interactive environment for creating, managing, and sharing digital content. From taking notes, tracking tasks, managing projects to creating an internal wiki, these FOSS options provide an array of features that support diverse knowledge management needs while aligning with the principles of openness, flexibility, and community-oriented development.
 
-- [AFFiNE](https://github.com/toeverything/AFFiNE) ★74603 - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. [TS, Other license].
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ★79079 - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. [Dart, GNU Affero General Public License v3.0].
-- [BookStack](https://github.com/BookStackApp/BookStack) ★19147 - A platform to create documentation/wiki content built with PHP & Laravel. [PHP, MIT License].
+- [AFFiNE](https://github.com/toeverything/AFFiNE) ★74636 - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. [TS, Other license].
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ★79136 - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. [Dart, GNU Affero General Public License v3.0].
+- [BookStack](https://github.com/BookStackApp/BookStack) ★19149 - A platform to create documentation/wiki content built with PHP & Laravel. [PHP, MIT License].
 - [Dexio](https://github.com/dexio-wiki/dexio) ★10 - One wiki for all your AI agents. Claude, ChatGPT, Codex, Cursor, Hermes and OpenClaw read and write the same markdown pages over MCP, and people see what they know as a page graph with every change kept. Self-host it with Docker or use the hosted version at dexio.wiki. [🐍, GNU Affero General Public License v3.0].
 - [Folio Wiki](https://github.com/evergreen-it-dev/folio) ★89 - Self-hosted team wiki where every page is a Markdown file in a Git repository, with a built-in MCP server and an AI assistant. [TS, MIT License].
-- [MediaWiki](https://github.com/wikimedia/mediawiki) ★5227 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
-- [MoinMoin](https://github.com/moinwiki/moin) ★376 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
+- [MediaWiki](https://github.com/wikimedia/mediawiki) ★5230 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
+- [MoinMoin](https://github.com/moinwiki/moin) ★377 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★1337 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
 
 More:
@@ -75,12 +75,12 @@ More:
 
 These tools are designed to help individuals maintain control over their personal knowledge sphere. These platforms, offering an alternative to the popular Evernote service, enable users to record thoughts, capture information from various sources, and organize these snippets of knowledge in a way that best suits their unique cognitive and workflow preferences.
 
-- [Joplin](https://github.com/laurent22/joplin) ★57222 - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. [TS, Other license].
-- [Koru](https://github.com/koruworks/mono) ★43 - Local-first, open-source workspace for notes, docs and files, built in Rust. No account required. Imports from Evernote, Notion, OneNote, Google Docs and Markdown. Runs on Windows and macOS. Website: <https://www.koru.do>. [Rust, Mozilla Public License 2.0].
-- [Logseq](https://github.com/logseq/logseq) ★45629 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap. [Clojure, GNU Affero General Public License v3.0].
-- [NoteGen](https://github.com/codexu/note-gen) ★13024 - A local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI. [TS/Rust, GNU General Public License v3.0].
-- [Notesnook](https://github.com/streetwriters/notesnook) ★14951 - A fully open source & end-to-end encrypted note taking alternative to Evernote. [TS, GNU General Public License v3.0].
-- [SiYuan](https://github.com/siyuan-note/siyuan) ★47269 - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. [TS, GNU Affero General Public License v3.0].
+- [Joplin](https://github.com/laurent22/joplin) ★57232 - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. [TS, Other license].
+- [Koru](https://github.com/koruworks/mono) ★44 - Local-first, open-source workspace for notes, docs and files, built in Rust. No account required. Imports from Evernote, Notion, OneNote, Google Docs and Markdown. Runs on Windows and macOS. Website: <https://www.koru.do>. [Rust, Mozilla Public License 2.0].
+- [Logseq](https://github.com/logseq/logseq) ★45650 - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap. [Clojure, GNU Affero General Public License v3.0].
+- [NoteGen](https://github.com/codexu/note-gen) ★13031 - A local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI. [TS/Rust, GNU General Public License v3.0].
+- [Notesnook](https://github.com/streetwriters/notesnook) ★14953 - A fully open source & end-to-end encrypted note taking alternative to Evernote. [TS, GNU General Public License v3.0].
+- [SiYuan](https://github.com/siyuan-note/siyuan) ★47279 - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. [TS, GNU Affero General Public License v3.0].
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad for Linux with Markdown preview, real PDF export via Typst, OCR, and automatic version history. Built with Tauri 2 (Rust). Available on AUR. [Rust/TS, MIT].
 
 ### Kanban board (Trello alternatives)
@@ -88,17 +88,17 @@ These tools are designed to help individuals maintain control over their persona
 The way we organize and manage our tasks has a significant impact on productivity, and so called "Kanban boards" have proven to be a powerful tool in this regard, by facilitating the visual management of work using the Kanban methodology. These alternatives to Trello offer features such as task cards, customizable boards, and progress tracking that help individuals and teams visualize workflow, manage work-in-progress, and enhance overall productivity.
 
 - [Focalboard](https://github.com/mattermost/focalboard) ★26557 - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. [TS, Other license].
-- [Kanboard](https://github.com/kanboard/kanboard) ★9962 - Kanban project management software. [PHP, MIT License].
-- [Planka](https://github.com/plankanban/planka) ★12691 - The realtime kanban board for workgroups built with React and Redux. [JS, GNU Affero General Public License v3.0].
-- [WeKan](https://github.com/wekan/wekan) ★21174 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. [JS, MIT License].
-- [Super Productivity](https://github.com/johannesjo/super-productivity) ★23759 - Advanced todo list app with integrated timeboxing, time tracking, and Jira/GitHub/GitLab integration. [TS, MIT License].
+- [Kanboard](https://github.com/kanboard/kanboard) ★9964 - Kanban project management software. [PHP, MIT License].
+- [Planka](https://github.com/plankanban/planka) ★12692 - The realtime kanban board for workgroups built with React and Redux. [JS, GNU Affero General Public License v3.0].
+- [WeKan](https://github.com/wekan/wekan) ★21175 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. [JS, MIT License].
+- [Super Productivity](https://github.com/johannesjo/super-productivity) ★23799 - Advanced todo list app with integrated timeboxing, time tracking, and Jira/GitHub/GitLab integration. [TS, MIT License].
 - [MonoMap](https://github.com/tehnika-mk/monomap) ★1 - Keyboard-first, local-first mind map and kanban board web app that runs entirely in the browser. [TypeScript, MIT License].
 
 ### Scheduling / Appointment Booking (Calendly alternatives)
 
 Self-hostable alternatives to Calendly and similar scheduling tools, letting individuals and teams share their availability and accept bookings without vendor lock-in.
 
-- [Tymeslot](https://github.com/Tymeslot/tymeslot) ★318 - Open-source meeting scheduling platform. Share your availability and let guests book time with you. [Elixir, AGPL-3.0].
+- [Tymeslot](https://github.com/Tymeslot/tymeslot) ★321 - Open-source meeting scheduling platform. Share your availability and let guests book time with you. [Elixir, AGPL-3.0].
 
 
 ### Email (Gmail / Proton Mail alternatives)
@@ -110,36 +110,36 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 
 ### Social media management (Buffer, Hootsuite alternatives)
 
-- [OpenPost](https://github.com/rodrgds/openpost) ★918 - Self-hosted social publishing tool for preparing, scheduling, and tracking posts across multiple networks. [Go, GNU Affero General Public License v3.0].
+- [OpenPost](https://github.com/rodrgds/openpost) ★921 - Self-hosted social publishing tool for preparing, scheduling, and tracking posts across multiple networks. [Go, GNU Affero General Public License v3.0].
 
 ### Invoicing (FreshBooks / QuickBooks alternatives)
 
 - [Crater](https://github.com/crater-invoice/crater) ★8363 - Open Source Invoicing Solution for Individuals & Businesses. [PHP, GNU Affero General Public License v3.0].
-- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ★10599 - A source-available invoice, quote, project and time-tracking app built with Laravel. [PHP, Other license].
-- [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) ★989 - Simple and elegant invoicing solution. [PHP, MIT License].
+- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ★10604 - A source-available invoice, quote, project and time-tracking app built with Laravel. [PHP, Other license].
+- [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) ★990 - Simple and elegant invoicing solution. [PHP, MIT License].
 
 ### Point of Sale (Square POS / Clover alternatives)
 
-- [Open Source POS](https://github.com/opensourcepos/opensourcepos) ★4524 - Web-based point of sale software for stores, with inventory, reporting and CodeIgniter/MySQL deployment. [PHP, Other license].
+- [Open Source POS](https://github.com/opensourcepos/opensourcepos) ★4525 - Web-based point of sale software for stores, with inventory, reporting and CodeIgniter/MySQL deployment. [PHP, Other license].
 - [NexoPOS](https://github.com/Blair2004/NexoPOS) ★1310 - Laravel-based POS system with Vue.js, Tailwind CSS, inventory management, sales processing, customer records, reports and modular extensions. [PHP, GNU General Public License v3.0].
-- [Posnic POS](https://github.com/Posnic/POS) ★22 - Offline-first open source POS and billing software for retail shops and restaurants, with desktop packages, self-hosted setup and optional cloud services. Website: <https://www.posnic.com/>. [JS, GNU Affero General Public License v3.0].
+- [Posnic POS](https://github.com/Posnic/POS) ★23 - Offline-first open source POS and billing software for retail shops and restaurants, with desktop packages, self-hosted setup and optional cloud services. Website: <https://www.posnic.com/>. [JS, GNU Affero General Public License v3.0].
 
 ### ERP (SAP Alternatives)
 
 - [Dolibarr](https://www.dolibarr.org) ★4200 - ERP, CRM, POS, RH
 - [ERP5](https://github.com/Nexedi/erp5) ★211 - ERP5 Open Source ERP/CRM/KM. (Mirror of https://lab.nexedi.com/nexedi/erp5 ; Please submit patches and issues there). [JS, Unknown license].
 - [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ★8962 - Free Open Source ERP CRM Accounting Invoicing Software | Node Js React. [JS, GNU Affero General Public License v3.0].
-- [Odoo](https://github.com/odoo/odoo) ★55864 - Odoo. Open Source Apps To Grow Your Business. [🐍, Other license].
+- [Odoo](https://github.com/odoo/odoo) ★55897 - Odoo. Open Source Apps To Grow Your Business. [🐍, Other license].
 - [OpenBooks](https://github.com/braedonsaunders/openbooks) ★25 - Mid-market open-source accounting/ERP (multi-entity, job costing, approvals, audit trail). [TS, GNU Affero General Public License v3.0].
 - [Larder](https://github.com/just-every/run-larder) ★0 - Stock, orders, purchasing, production and shipments for small makers. Alternative to Katana, Unleashed, MRPeasy and Fishbowl. [TS, MIT License].
 
 ### CRM (Salesforce alternatives)
 
 - [Customermates](https://github.com/customermates/customermates) ★224 - Open-core CRM with native MCP, REST, webhooks and a separate n8n community integration; self-hostable with Docker Compose. [TS, AGPL-3.0-only core; commercial server components in ee/].
-- [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5867 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
-- [EspoCRM](https://github.com/espocrm/espocrm) ★3630 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
+- [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5869 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
+- [EspoCRM](https://github.com/espocrm/espocrm) ★3638 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
 - [Warpdrive](https://github.com/sneg55/warpdrive) ★927 - Self-hosted CRM for business development: sales pipeline, deal workspace, contacts, and two-way Gmail sync. Alternative to Pipedrive. [TS, MIT License].
-- [Relaticle](https://github.com/relaticle/relaticle) ★1851 - Open-source CRM with a built-in AI assistant and an MCP server for AI agents. Self-host with Docker. Alternative to HubSpot and Attio. [PHP, GNU Affero General Public License v3.0].
+- [Relaticle](https://github.com/relaticle/relaticle) ★1855 - Open-source CRM with a built-in AI assistant and an MCP server for AI agents. Self-host with Docker. Alternative to HubSpot and Attio. [PHP, GNU Affero General Public License v3.0].
 
 ### Revenue Intelligence / Product-Led Sales (Pocus, Common Room alternatives)
 
@@ -152,7 +152,7 @@ Tools that turn product-usage data into buying, expansion, and churn signals and
 
 Platforms for collecting, organizing, and prioritizing customer feedback, feature requests, and ideas. These tools help product teams understand user needs and build better products.
 
-- [Quackback](https://github.com/QuackbackIO/quackback) ★364 - Open-source customer feedback platform with public boards, roadmaps, and changelogs. [TS, GNU Affero General Public License v3.0].
+- [Quackback](https://github.com/QuackbackIO/quackback) ★366 - Open-source customer feedback platform with public boards, roadmaps, and changelogs. [TS, GNU Affero General Public License v3.0].
 
 ### PDF editing (Adobe Acrobat alternatives)
 
@@ -172,15 +172,15 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 
 ### Applicant Tracking System
 
-- [Aural](https://github.com/1146345502/aural-oss) ★226 - Open-source, self-hostable AI interview platform for voice, chat, and video interviews. [TS, MIT License].
-- [FreeATS](https://github.com/freeats/freeats) ★45 - . [💎, MIT License].
+- [Aural](https://github.com/1146345502/aural-oss) ★227 - Open-source, self-hostable AI interview platform for voice, chat, and video interviews. [TS, MIT License].
+- [FreeATS](https://github.com/freeats/freeats) ★46 - . [💎, MIT License].
 
 ## Web
 
 ### Web CMS and Blog Engines
 
-- [Wordpress](https://github.com/WordPress/WordPress) ★21540 - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. [PHP, Other license].
-- [Ghost](https://github.com/TryGhost/Ghost) ★55838 - Independent technology for modern publishing, memberships, subscriptions and newsletters. [JS, MIT License].
+- [Wordpress](https://github.com/WordPress/WordPress) ★21543 - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. [PHP, Other license].
+- [Ghost](https://github.com/TryGhost/Ghost) ★55849 - Independent technology for modern publishing, memberships, subscriptions and newsletters. [JS, MIT License].
 - [YunCMS](https://github.com/Yunsoft-Software/yuncms) ★7 - Self-hosted MySQL CMS and REST backend with a React Studio, RBAC, Files, extensions and optional MCP. [JS, MIT License]. Website: [Yunsoft](https://yunsoft.com).
 
 More:
@@ -189,8 +189,8 @@ More:
 
 ### Blogging platform/ Personal website builder (Medium alternatives)
 
-- [btw](https://github.com/btw-so/btw) ★1257 - Open source Medium alternative- set up your personal blog in minutes. [JS, GNU General Public License v3.0].
-- [WriteFreely](https://github.com/writefreely/writefreely) ★5294 - A clean, Markdown-based publishing platform made for writers. Write together and build a community. [Go, GNU Affero General Public License v3.0].
+- [btw](https://github.com/btw-so/btw) ★1258 - Open source Medium alternative- set up your personal blog in minutes. [JS, GNU General Public License v3.0].
+- [WriteFreely](https://github.com/writefreely/writefreely) ★5292 - A clean, Markdown-based publishing platform made for writers. Write together and build a community. [Go, GNU Affero General Public License v3.0].
 
 
 ### Website builder (Webflow, Wix, Squarespace alternatives)
@@ -202,20 +202,20 @@ More:
 
 ### Web analytics (Google Analytics alternatives)
 
-- [Matomo](https://github.com/matomo-org/matomo) ★22032 - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!. [PHP, GNU General Public License v3.0].
-- [Plausible](https://github.com/plausible/analytics) ★29871 - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. [💧, GNU Affero General Public License v3.0].
+- [Matomo](https://github.com/matomo-org/matomo) ★22035 - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!. [PHP, GNU General Public License v3.0].
+- [Plausible](https://github.com/plausible/analytics) ★29879 - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. [💧, GNU Affero General Public License v3.0].
 - [Prisme Analytics](https://github.com/prismelabs/analytics) ★136 - 💎 An Open Source, privacy-focused and progressive analytics service. [Go, GNU Affero General Public License v3.0].
 - [Shynet](https://github.com/milesmcc/shynet) ★3156 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. [🐍, Apache License 2.0].
-- [Umami](https://github.com/umami-software/umami) ★40196 - Umami is a simple, fast, privacy-focused alternative to Google Analytics. [TS, MIT License].
+- [Umami](https://github.com/umami-software/umami) ★40215 - Umami is a simple, fast, privacy-focused alternative to Google Analytics. [TS, MIT License].
 
 ### Static website generator
 
-- [11ty](https://github.com/11ty/eleventy) ★20045 - A simpler site generator. Transforms a directory of templates (of varying types) into HTML. [JS, MIT License].
-- [Hugo](https://github.com/gohugoio/hugo) ★90495 - The world’s fastest framework for building websites. [Go, Apache License 2.0].
-- [Jekyll](https://github.com/jekyll/jekyll) ★51790 - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby. [💎, MIT License].
+- [11ty](https://github.com/11ty/eleventy) ★20051 - A simpler site generator. Transforms a directory of templates (of varying types) into HTML. [JS, MIT License].
+- [Hugo](https://github.com/gohugoio/hugo) ★90501 - The world’s fastest framework for building websites. [Go, Apache License 2.0].
+- [Jekyll](https://github.com/jekyll/jekyll) ★51794 - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby. [💎, MIT License].
 - [Lektor](https://github.com/lektor/lektor) ★3951 - The lektor static file content management system. [🐍, BSD 3-Clause "New" or "Revised" License].
-- [Pelican](https://github.com/getpelican/pelican) ★13377 - Static site generator that supports Markdown and reST syntax. Powered by Python. [🐍, GNU Affero General Public License v3.0].
-- [Zola](https://github.com/getzola/zola) ★17610 - A fast static site generator in a single binary with everything built-in. https://www.getzola.org. [🦀, MIT License].
+- [Pelican](https://github.com/getpelican/pelican) ★13380 - Static site generator that supports Markdown and reST syntax. Powered by Python. [🐍, GNU Affero General Public License v3.0].
+- [Zola](https://github.com/getzola/zola) ★17612 - A fast static site generator in a single binary with everything built-in. https://www.getzola.org. [🦀, MIT License].
 
 More:
 
@@ -234,9 +234,9 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 - [Abilian Hop3](https://github.com/abilian/hop3) ★16 - Hop3 - Open source platform as a service: deploy and manage your applications seamlessly. [🐍, Other license].
 - [Abilian Nua](https://github.com/abilian/nua) ★39 - Open source PaaS and application marketplace. [🐍, GNU Affero General Public License v3.0].
-- [CapRover](https://github.com/caprover/caprover) ★15207 - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids. [TS, Other license].
+- [CapRover](https://github.com/caprover/caprover) ★15209 - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids. [TS, Other license].
 - [Cloud in a Bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) ★1248 - Self-hosted platform that builds apps from Git repos into rootless Podman containers on a user controlled server, each with its own subdomain. [🐍, GNU Affero General Public License v3.0].
-- [Coolify](https://github.com/coollabsio/coolify) ★66172 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
+- [Coolify](https://github.com/coollabsio/coolify) ★66212 - An open-source & self-hostable Heroku / Netlify / Vercel alternative. [PHP, Apache License 2.0].
 - [Dokku](https://github.com/dokku/dokku) ★32230 - A docker-powered PaaS that helps you build and manage the lifecycle of applications. [Shell, MIT License].
 - [France Nuage](https://github.com/France-Nuage/plateforme) ★55 - Sovereign open-source cloud platform: managed hosting of open-source apps and S3-compatible storage. [TS, Server Side Public License v1].
 - [Peon](https://github.com/Peon-sh/Peon) ★104 - Open-source self-hostable Docker PaaS (Vercel/Heroku alternative) with project RBAC, audit logs, and MCP. [TS, MIT License].
@@ -244,17 +244,17 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 ### User authentication (Auth0 alternatives)
 
 - [Janssen](https://github.com/JanssenProject/jans) ★657 - The Janssen Project maintains open source IAM components, featuring Agama for identity orchestration, and the Cedarling, a WASM or embedded policy evaluation engine. [☕️, Apache License 2.0].
-- [Keycloak](https://github.com/keycloak/keycloak) ★37906 - Open Source Identity and Access Management For Modern Applications and Services. [☕️, Apache License 2.0].
-- [Logto](https://github.com/logto-io/logto) ★14947 - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions. [TS, Mozilla Public License 2.0].
-- [SuperTokens](https://github.com/supertokens/supertokens-core) ★15344 - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. [☕️, Other license].
-- [Authgear](https://github.com/authgear/authgear-server) ★2156 - Authgear is an open-source Auth0/Clerk alternative for all of your consumer authentication needs. Get started in 5 minutes to integrate passwordless login, passkeys, 2FA, and enterprise-grade security into your applications. It supports modern authentication protocols OIDC and SAML. It features a web portal for user management and setting up authentication/authorization configurations. [☕️, Apache License 2.0]
+- [Keycloak](https://github.com/keycloak/keycloak) ★37935 - Open Source Identity and Access Management For Modern Applications and Services. [☕️, Apache License 2.0].
+- [Logto](https://github.com/logto-io/logto) ★14952 - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions. [TS, Mozilla Public License 2.0].
+- [SuperTokens](https://github.com/supertokens/supertokens-core) ★15346 - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. [☕️, Other license].
+- [Authgear](https://github.com/authgear/authgear-server) ★2157 - Authgear is an open-source Auth0/Clerk alternative for all of your consumer authentication needs. Get started in 5 minutes to integrate passwordless login, passkeys, 2FA, and enterprise-grade security into your applications. It supports modern authentication protocols OIDC and SAML. It features a web portal for user management and setting up authentication/authorization configurations. [☕️, Apache License 2.0]
 
 ### Search (Algolia alternatives)
 
-- [Mellisearch](https://github.com/meilisearch/MeiliSearch) ★59885 - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. [🦀, MIT License].
-- [Sonic](https://github.com/valeriansaliou/sonic) ★21384 - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. [🦀, Mozilla Public License 2.0].
-- [Tantivy](https://github.com/quickwit-oss/tantivy) ★16447 - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust. [🦀, MIT License].
-- [Typesense](https://github.com/typesense/typesense) ★27152 - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences. [C++, GNU General Public License v3.0].
+- [Mellisearch](https://github.com/meilisearch/MeiliSearch) ★59893 - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. [🦀, MIT License].
+- [Sonic](https://github.com/valeriansaliou/sonic) ★21388 - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. [🦀, Mozilla Public License 2.0].
+- [Tantivy](https://github.com/quickwit-oss/tantivy) ★16455 - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust. [🦀, MIT License].
+- [Typesense](https://github.com/typesense/typesense) ★27154 - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences. [C++, GNU General Public License v3.0].
 
 ### AI/LLM API Gateway (OpenAI, proprietary LLM API gateway alternatives)
 
@@ -262,21 +262,21 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### Backend-as-a-Service (Firebase alternatives)
 
-- [Appwrite](https://github.com/appwrite/appwrite) ★58224 - Build like a team of hundreds_. [TS, BSD 3-Clause "New" or "Revised" License].
+- [Appwrite](https://github.com/appwrite/appwrite) ★58143 - Build like a team of hundreds_. [TS, BSD 3-Clause "New" or "Revised" License].
 - [Nhost](https://github.com/nhost/nhost) ★9392 - The Open Source Firebase Alternative with GraphQL. [TS, MIT License].
-- [Supabase](https://github.com/supabase/supabase) ★115209 - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. [TS, Apache License 2.0].
-- [Manifest](https://github.com/mnfst/manifest) ★7639 - 🦚 The 1-file backend. [TS, MIT License].
+- [Supabase](https://github.com/supabase/supabase) ★115151 - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. [TS, Apache License 2.0].
+- [Manifest](https://github.com/mnfst/manifest) ★7641 - 🦚 The 1-file backend. [TS, MIT License].
 
 ### Push notifications (OneSignal alternatives)
 
-- [Apprise](https://github.com/caronc/apprise) ★17784 - Apprise - Push Notifications that work with just about every platform!. [🐍, BSD 2-Clause "Simplified" License].
-- [Novu](https://github.com/novuhq/novu) ★40344 - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations. [TS, Other license].
-- [ntfy](https://github.com/binwiederhier/ntfy) ★35611 - Send push notifications to your phone or desktop using PUT/POST. [Go, Apache License 2.0].
+- [Apprise](https://github.com/caronc/apprise) ★17791 - Apprise - Push Notifications that work with just about every platform!. [🐍, BSD 2-Clause "Simplified" License].
+- [Novu](https://github.com/novuhq/novu) ★40352 - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations. [TS, Other license].
+- [ntfy](https://github.com/binwiederhier/ntfy) ★35633 - Send push notifications to your phone or desktop using PUT/POST. [Go, Apache License 2.0].
 
 ### Mobile app live updates (Ionic Appflow, CodePush alternatives)
 
-- [Capgo](https://github.com/Cap-go/capgo) ★213 - Console, Backend and CLI to manage Capgo Instant update and Native build for Capacitor apps. [TS, GNU Affero General Public License v3.0].
-- [OtaKit](https://github.com/OtaKit/otakit) ★54 - Push updates directly to your Capacitor app without app store reviews. [TS, MIT License].
+- [Capgo](https://github.com/Cap-go/capgo) ★214 - Console, Backend and CLI to manage Capgo Instant update and Native build for Capacitor apps. [TS, GNU Affero General Public License v3.0].
+- [OtaKit](https://github.com/OtaKit/otakit) ★53 - Push updates directly to your Capacitor app without app store reviews. [TS, MIT License].
 
 ### Webhooks notifications (Svix, HostedHooks alternatives)
 
@@ -288,60 +288,60 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 
 ### Logging (Loggly alternatives)
 
-- [Graylog](https://github.com/Graylog2/graylog2-server) ★8180 - Free and open log management. [☕️, Other license].
+- [Graylog](https://github.com/Graylog2/graylog2-server) ★8181 - Free and open log management. [☕️, Other license].
 
 
 ### Monitoring/Observability (Datadog alternatives)
 
-- [Coroot](https://github.com/coroot/coroot) ★8022 - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. [Go, Apache License 2.0].
-- [hyperdx](https://github.com/hyperdxio/hyperdx) ★10049 - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. [TS, MIT License].
-- [signoz](https://github.com/signoz/signoz) ★32668 - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool. [TS, Other license].
-- [Sentry](https://github.com/getsentry/sentry) ★45787 - Developer-first error tracking and performance monitoring. [🐍, Other license].
+- [Coroot](https://github.com/coroot/coroot) ★8023 - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections. [Go, Apache License 2.0].
+- [hyperdx](https://github.com/hyperdxio/hyperdx) ★10050 - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry. [TS, MIT License].
+- [signoz](https://github.com/signoz/signoz) ★32674 - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool. [TS, Other license].
+- [Sentry](https://github.com/getsentry/sentry) ★45793 - Developer-first error tracking and performance monitoring. [🐍, Other license].
 - [SolidPing](https://github.com/fclairamb/solidping) ★39 - Uptime and synthetic monitoring (HTTP, TCP, ICMP, DNS, TLS, databases, cron heartbeats, browser checks) with status pages, incidents and on-call escalation. An alternative to Pingdom, UptimeRobot and Datadog Synthetics. [Go, GNU Affero General Public License v3.0].
 - [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) ★34 - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts. [TS, MIT License].
 - [KubeStellar Console](https://github.com/kubestellar/console) ★154 - Multi-cluster Kubernetes dashboard with real-time observability, compliance monitoring, and AI-powered operations across edge and cloud clusters. CNCF project. [Go/TS, Apache License 2.0].
-- [VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) ★2523 - Fast and easy to use database for logs, which can efficiently handle terabytes of logs. [Go, Apache License 2.0].
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ★18122 - Fast, cost-effective monitoring solution and time series database. [Go, Apache License 2.0].
+- [VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) ★2532 - Fast and easy to use database for logs, which can efficiently handle terabytes of logs. [Go, Apache License 2.0].
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ★18130 - Fast, cost-effective monitoring solution and time series database. [Go, Apache License 2.0].
 
 ### Data pipeline / ETL (Fivetran, Airflow alternatives)
 
-- [Bruin](https://github.com/bruin-data/bruin) ★1813 - End-to-end data pipeline CLI: data ingestion, SQL and Python transformation, and data quality checks in one tool. [Go, Apache License 2.0].
+- [Bruin](https://github.com/bruin-data/bruin) ★1815 - End-to-end data pipeline CLI: data ingestion, SQL and Python transformation, and data quality checks in one tool. [Go, Apache License 2.0].
 
 ## Software development
 
 ### Code hosting & collaboration (Github alternatives)
 
 - [Forgejo](https://codeberg.org/forgejo/forgejo) ★2200 - Forgejo is a self-hosted lightweight software forge maintained by an inclusive community under the umbrella of Codeberg e.V., a registered non-profit association based in Berlin, Germany. [Go, GNU General Public License v3.0].
-- [Gitea](https://github.com/go-gitea/gitea) ★59134 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. [Go, MIT License].
-- [Gitlab](https://github.com/gitlabhq/gitlabhq) ★24567 - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com. [💎, Other license].
-- [Gogs](https://github.com/gogs/gogs) ★47942 - Gogs is a painless self-hosted Git service. [Go, MIT License].
+- [Gitea](https://github.com/go-gitea/gitea) ★59151 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. [Go, MIT License].
+- [Gitlab](https://github.com/gitlabhq/gitlabhq) ★24571 - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com. [💎, Other license].
+- [Gogs](https://github.com/gogs/gogs) ★47944 - Gogs is a painless self-hosted Git service. [Go, MIT License].
 - [Iris Git](https://git.iris.to/about.html) - Git hosting and collaboration over Nostr and Hashtree, with a browser interface and `htree://` Git remotes. [TypeScript, MIT License]. ([Source code](https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/iris-git)).
 - [Pagure](https://github.com/Pagure/pagure) ★228 - pagure is a light-weight git-centered forge based on pygit2. (MIRROR). [🐍, GNU General Public License v2.0].
 
 ### Bug tracking (Jira alternatives):
 
-- [Orbit](https://github.com/Noveum/orbit) ★82 - Free, realtime task manager with issues, projects, sprints, docs, files and a hosted OAuth MCP server. [TS, Apache License 2.0].
+- [Orbit](https://github.com/Noveum/orbit) ★83 - Free, realtime task manager with issues, projects, sprints, docs, files and a hosted OAuth MCP server. [TS, Apache License 2.0].
 - [Bugzilla](https://github.com/bugzilla/bugzilla) ★867 - Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:. [Perl, Mozilla Public License 2.0].
-- [Plane](https://github.com/makeplane/plane) ★62574 - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. [TS, GNU Affero General Public License v3.0].
-- [Redmine](https://github.com/redmine/redmine) ★6087 - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp. [💎, Other license].
+- [Plane](https://github.com/makeplane/plane) ★62687 - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. [TS, GNU Affero General Public License v3.0].
+- [Redmine](https://github.com/redmine/redmine) ★6089 - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp. [💎, Other license].
 - [Taiga](https://github.com/taigaio/taiga) ★578 - Taiga is a free and open-source project management for cross-functional agile teams. [🐍, Mozilla Public License 2.0].
 
 ### Continuous integration (CircleCI alternatives)
 
 - [Buildbot](https://github.com/buildbot/buildbot) ★5489 - Python-based continuous integration testing framework; your pull requests are more than welcome!. [🐍, GNU General Public License v2.0].
-- [Drone](https://github.com/harness/drone) ★38930 - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. [Go, Apache License 2.0].
-- [Jenkins](https://github.com/jenkinsci/jenkins) ★26788 - Jenkins automation server. [☕️, MIT License].
+- [Drone](https://github.com/harness/drone) ★38935 - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. [Go, Apache License 2.0].
+- [Jenkins](https://github.com/jenkinsci/jenkins) ★26793 - Jenkins automation server. [☕️, MIT License].
 - [SuperCI](https://github.com/supercorp-ai/superci) ★35 - GitHub Actions on the cheapest AWS spot machines, in your own account, at AWS's price with nothing added: $0.0008 a minute for 2 vCPU. One command; no servers or Kubernetes. [🦀, MIT License].
 
 ### Code review (Github alternatives)
 
-- [Gerrit](https://github.com/GerritCodeReview/gerrit) ★1243 - Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit). [☕️, Apache License 2.0].
-- [Review Board](https://github.com/reviewboard/reviewboard) ★1732 - An extensible and friendly code review tool for projects and companies of all sizes. [🐍, MIT License].
+- [Gerrit](https://github.com/GerritCodeReview/gerrit) ★1244 - Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit). [☕️, Apache License 2.0].
+- [Review Board](https://github.com/reviewboard/reviewboard) ★1733 - An extensible and friendly code review tool for projects and companies of all sizes. [🐍, MIT License].
 
 ### AI coding agents (Devin, GitHub Copilot coding agent alternatives)
 
 - [Kodama](https://github.com/optimiware/kodama) ★2 - API-first, multi-tenant software factory that runs containerized coding agents and pipelines with role-inbox human approvals, OIDC RBAC, a model gateway, and gitolite-style Git access rules. [Go, Apache License 2.0].
-- [Orbi](https://github.com/orbi-build/orbi) ★256 - Turns labeled GitHub Issues into pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging. [🐍, GNU Affero General Public License v3.0].
+- [Orbi](https://github.com/orbi-build/orbi) ★258 - Turns labeled GitHub Issues into pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging. [🐍, GNU Affero General Public License v3.0].
 
 
 ## Other lists of free / open source software
@@ -349,15 +349,15 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 This it not the first list of free / open source software. Here are some other lists:
 
 - [EuroStack Directory](https://euro-stack.com/alternatives/) - A curated list of open-source alternatives to popular SaaS products, with a focus on European solutions.
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★337952 - A list of Free Software network services and web applications which can be hosted on your own servers. [Other license].
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ★338275 - A list of Free Software network services and web applications which can be hosted on your own servers. [Other license].
 - [AFS ONE](https://www.afs.one/aa45803b67/#/?page=afs_directory&editable=true) - Free Software Publisher Directory.
 - [Awesome Free Software](https://github.com/abilian/awesome-free-software) ★11 - Your "yellow pages" of Enterprise Free Software Publishers, their products and success cases. [Unknown license].
-- [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives) ★19872 - Awesome list of open-source startup alternatives to well-known SaaS products 🚀. [🐍, MIT License].
+- [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives) ★19877 - Awesome list of open-source startup alternatives to well-known SaaS products 🚀. [🐍, MIT License].
 - [Guide des solutions open source](https://guide-solutions-opensource.com/) (in French)
 - [SILL - Catalogue de référence de logiciels libres recommandés pour l'ensemble de l'administration](https://sill.etalab.gouv.fr/) (in French)
 - [Comptoir du Libre](https://comptoir-du-libre.org/en/softwares) (in French)
 - [Awesome F/OSS](https://awsmfoss.com/) - "Explore the universe of awesome Free and Open Source software."
-- [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★2978 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
+- [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★2982 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
 - [Open-source alternatives](https://opensource.builders/)
 - [PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
 - [os-alt](https://code-rho-dun.vercel.app) - Directory of paid SaaS with strictly self-hostable open-source alternatives, listing setup-time score, monthly self-host cost estimate, and migration sketch per tool.
