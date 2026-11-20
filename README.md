@@ -63,6 +63,7 @@ Knowledge is the cornerstone of any successful organization, and managing it eff
 - [Folio Wiki](https://github.com/evergreen-it-dev/folio) ★89 - Self-hosted team wiki where every page is a Markdown file in a Git repository, with a built-in MCP server and an AI assistant. [TS, MIT License].
 - [MediaWiki](https://github.com/wikimedia/mediawiki) ★5230 - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing. [PHP, Other license].
 - [MoinMoin](https://github.com/moinwiki/moin) ★377 - MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x. [🐍, Other license].
+- [Trina AX](https://github.com/trina-app/trina-ax) ★92 - Team AI workspace for non-developer staff, with one shared drive where each person's AI opens only the folders that person may open, plus team chat, shared sessions and version history. Installs on a Debian or Ubuntu server and is free to self-host with no seat limit. [TS, GNU Affero General Public License v3.0].
 - [XWiki](https://github.com/xwiki/xwiki-platform) ★1337 - The XWiki platform. [☕️, GNU Lesser General Public License v2.1].
 
 More:
