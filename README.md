@@ -124,6 +124,13 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [NexoPOS](https://github.com/Blair2004/NexoPOS) ★1310 - Laravel-based POS system with Vue.js, Tailwind CSS, inventory management, sales processing, customer records, reports and modular extensions. [PHP, GNU General Public License v3.0].
 - [Posnic POS](https://github.com/Posnic/POS) ★23 - Offline-first open source POS and billing software for retail shops and restaurants, with desktop packages, self-hosted setup and optional cloud services. Website: <https://www.posnic.com/>. [JS, GNU Affero General Public License v3.0].
 
+### Digital product sales (Gumroad, Lemon Squeezy alternatives)
+
+Tools for selling digital goods such as software, templates and courses: taking payment from a buyer and delivering the product, rather than invoicing a client you already have.
+
+- [HonorBox](https://github.com/Honorboxx/honorbox) ★7 - Sell digital products using only Stripe and GitHub: a static storefront on GitHub Pages, checkout on your own Stripe account, and a scheduled GitHub Action that grants each buyer access to your private product repository. No platform fee and no server. [JS, MIT License].
+- [Polar](https://github.com/polarsource/polar) ★10089 - Billing platform for software and digital products, acting as merchant of record, with private GitHub repository access available as a built-in benefit. [🐍, Apache License 2.0].
+
 ### ERP (SAP Alternatives)
 
 - [Dolibarr](https://www.dolibarr.org) ★4200 - ERP, CRM, POS, RH
