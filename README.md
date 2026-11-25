@@ -115,6 +115,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 ### Invoicing (FreshBooks / QuickBooks alternatives)
 
 - [Crater](https://github.com/crater-invoice/crater) ★8363 - Open Source Invoicing Solution for Individuals & Businesses. [PHP, GNU Affero General Public License v3.0].
+- [Huismus](https://github.com/codebyarne/huismus) ★5 - Bookkeeping for Dutch freelancers: quotes, invoices, expenses with receipts and VAT amounts, on your own computer or self-hosted. Website: <https://mijnhuismus.nl/en/>. [🐍, GNU Affero General Public License v3.0].
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ★10604 - A source-available invoice, quote, project and time-tracking app built with Laravel. [PHP, Other license].
 - [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice) ★990 - Simple and elegant invoicing solution. [PHP, MIT License].
 
