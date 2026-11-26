@@ -343,6 +343,13 @@ These tools provide a ready-made foundation for building SaaS applications, offe
 - [Kodama](https://github.com/optimiware/kodama) ★2 - API-first, multi-tenant software factory that runs containerized coding agents and pipelines with role-inbox human approvals, OIDC RBAC, a model gateway, and gitolite-style Git access rules. [Go, Apache License 2.0].
 - [Orbi](https://github.com/orbi-build/orbi) ★258 - Turns labeled GitHub Issues into pull requests: a coding agent implements and tests the change, a separate AI session reviews it, and a merge gate checks CI before merging. [🐍, GNU Affero General Public License v3.0].
 
+### Database clients (DataGrip, TablePlus, Navicat alternatives)
+
+Desktop tools for connecting to, querying, and managing SQL and NoSQL databases, as open alternatives to proprietary database clients.
+
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database manager for PostgreSQL, MySQL, SQLite, SQL Server, Redis and more, on Windows, macOS and Linux. [TS, GPL-3.0 Community Edition; paid tiers under a commercial license].
+
+
 
 ## Other lists of free / open source software
 
