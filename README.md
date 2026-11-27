@@ -162,6 +162,8 @@ Platforms for collecting, organizing, and prioritizing customer feedback, featur
 - [Stayput](https://github.com/keenanlk/stayput) ★1 - Browser-based toolkit with PDF tools (merge, split, compress, sign, protect, unlock, page numbers) plus image, video and audio tools. Everything runs in the tab, so files are not uploaded; it needs no account and works offline after the first visit. Website: <https://stayput.dev>. [TS, MIT].
 - [Nyxiontech PDF Tools](https://github.com/jurecki007/nyxiontech-tools) ★0 - Browser-based PDF and image toolkit: merge, split, compress, sign, fill forms, redact, convert, and OCR in English and Polish. Everything runs in the tab, so files are not uploaded, and it needs no account. A Windows desktop build runs the same tools without a network. Website: <https://tools.nyxiontech.com>. [TS, GNU Affero General Public License v3.0].
 
+- [PDFCraft](https://github.com/Vishnu-cod/pdf-craft) - Browser-based client-side PDF toolkit: compress strictly under 50KB/100KB/200KB, irreversibly mask Aadhaar/PAN IDs with stream verification, sign without an account, merge, split, convert, and audit metadata leaks in browser RAM. Website: <https://pdf-craft-vert.vercel.app>. [TS, MIT].
+
 ### Document Management / ECM (Documentum alternatives)
 
 - [Alfresco](https://github.com/Alfresco/alfresco-content-app) ★205 - Alfresco Content Application. [TS, GNU Lesser General Public License v3.0].
